@@ -1,0 +1,9 @@
+# 忽略notebook下的.ipynb_checkpoints 文件
+.ipynb_checkpoints
+.ipynb_checkpoints/*
+
+# 忽略大数据集
+*.csv
+
+# 
+.DS_Store
