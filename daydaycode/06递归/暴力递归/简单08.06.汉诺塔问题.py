@@ -15,4 +15,17 @@
 
 #  输入：A = [1, 0], B = [], C = []
 #  输出：C = [1, 0]
+### *********************  暴力递归 ********************* ### 
+class Solution:
+    def hanota(self, A: List[int], B: List[int], C: List[int]) -> None:
+        """
+        Do not return anything, modify C in-place instead.
+        """
+        # A-from B-others C-to
+        # step1 0 ~ i-1 from 移到 others
+        # step2 i 移到 to
+        # step3 0 ～ i-1 others 移到 to
 
+
+
+        
