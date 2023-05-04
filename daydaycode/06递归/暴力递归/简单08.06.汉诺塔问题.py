@@ -17,7 +17,7 @@
 #  输出：C = [1, 0]
 ### *********************  暴力递归 ********************* ### 
 class Solution:
-    def hanota(self, A: List[int], B: List[int], C: List[int]) -> None:
+    def hanota(self, A, B, C) -> None:
         """
         Do not return anything, modify C in-place instead.
         """
@@ -26,9 +26,32 @@ class Solution:
         # step2 i 移到 to
         # step3 0 ～ i-1 others 移到 to
 
+        def process(N, f, to, others):
+            # print("N", N)
+            if N == 1:
+                num = f.pop()
+                to.append(num)
+                return
+            
+            process(N-1, f, others, to)
+            num = f.pop()
+            to.append(num)
+            process(N-1, others, to, f)
 
+            return
+        
+        N = len(A)
+        process(N, A, C, B)
+        return C
 
-        return
+if __name__ == "__main__": 
+    A = [2, 1, 0]
+    B = []
+    C = []
+    s = Solution()
+    res = s.hanota(A, B, C)
+    print(res)
+    
 
 
 
