@@ -27,18 +27,25 @@
 class Solution:
     def threeSum(self, nums):
 
-        # 
+        
         res = set()
-        num_map = {}
-
+        nums.sort()
+        
+        # 固定第一个数
         for i in range(len(nums)):
+            if i > 0 and nums[i] == nums[i-1]:
+                continue
+            num_map = {}
+            # 
             for j in range(i, len(nums)):
                 if nums[j] in num_map:
                     res.add((num_map[nums[j]][0], num_map[nums[j]][1], nums[j]))
                 
+                # 按第3个数作为key 记录其他两个数
                 num_map[0 - nums[i] - nums[j]] = [nums[i], nums[j]]
+        print(num_map)
         
-        return res
+        return list(res)
     
 
 nums = [-1,0,1,2,-1,-4]
