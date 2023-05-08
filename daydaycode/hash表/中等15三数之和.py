@@ -37,7 +37,7 @@ class Solution:
                 continue
             num_map = {}
             # 
-            for j in range(i, len(nums)):
+            for j in range(i + 1, len(nums)):
                 if nums[j] in num_map:
                     res.add((num_map[nums[j]][0], num_map[nums[j]][1], nums[j]))
                 

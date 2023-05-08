@@ -19,34 +19,38 @@
 # -1000 <= nums[i] <= 1000
 # -107 <= k <= 107
 class Solution:
-    def subarraySum(self, nums, k: int) -> int:
-        # 字典记录字数组 这个不是递归吗？
-        # 打印所有的子数组
-         
+# ******************** 暴力解法一 时间O(n2) ******************** #
+    def subarraySum1(self, nums, k: int) -> int:
+        # 字典记录字数组 
+        res = 0
+        for i in range(len(nums)):
+            for j in range(i , len(nums)):
+                #print(i, j)
+                pre_sum = sum(nums[i:j + 1])
+                #print(pre_sum)
+                if pre_sum == k:
+                    res += 1
+        return res
 
-        self.res = []
-        self.n = 0
-        def process(n, nums, path, K):
-            if n > len(nums) - 1:
-                if sum(path) == K:
-                    self.n +=1
-                self.res.append(path.copy())
-                return
-            
-            # 当前  不要
-            process(n + 1, nums, path, K)
-            # 当前 要
-            path.append(nums[n])
-            process(n + 1, nums, path, K)
-            path.pop()
-            return
-       
-        process(0, nums, [], K)
-        print(self.res)
-        return self.n
+# ******************** 优化 时间O(n) ******************** #   
+    def subarraySum2(self, nums, k: int) -> int:
+        # 暴力求解的方法 可以看出实际是在求 sum(nums[i:j + 1]) = K  -> sum(nums[:j]) - sum(nums[:i]) = K -> pre_num[j] - pre_num[i] = K
+        # pre_nums 表示前缀和
+        pre_num = 0
+        res = 0
+        pre_num_map = {0: 1}
+        for i in range(len(nums)):
+            pre_num += nums[i] 
+            res += pre_num_map.get(pre_num - k , 0) # pre_num_j - k = pre_num_i 满足条件的数组组合
+
+            pre_num_map[pre_num] = pre_num_map.get(pre_num, 0) + 1
+        
+        return res
     
 f = Solution()
-nums = [1,2,3]
+nums = [1,2,3,2,1,1]
 K = 3
-res = f.subarraySum(nums, K)
-print(res)
+res1 = f.subarraySum1(nums, K)
+res2 = f.subarraySum2(nums, K)
+print(res1)
+print(res2)
