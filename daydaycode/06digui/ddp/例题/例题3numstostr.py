@@ -41,6 +41,7 @@ def waydp(str1, dp):
 
     dp[len(str1)] = 1
     
+    
     for i in range(len(str1) - 1, -1, -1):
         print("i", i)
         if str1[i] == '1':

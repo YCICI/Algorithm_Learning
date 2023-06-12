@@ -1,0 +1,100 @@
+% !TEX TS-program = xelatex
+% !TEX encoding = UTF-8 Unicode
+% !Mode:: "TeX:UTF-8"
+
+\documentclass{resume}
+\usepackage{zh_CN-Adobefonts_external} % Simplified Chinese Support using external fonts (./fonts/zh_CN-Adobe/)
+%\usepackage{zh_CN-Adobefonts_internal} % Simplified Chinese Support using system fonts
+\usepackage{linespacing_fix} % disable extra space before next section
+\usepackage{cite}
+
+\begin{document}
+\pagenumbering{gobble} % suppress displaying page number
+\name{余楚楚}
+
+\basicInfo{
+  \faBirthdayCake{ 1997年07月}\textperiodcentered\ 
+  \faman{ 女}\textperiodcentered\ 
+  \email{yuchuchu77@163.com} \textperiodcentered\ 
+  \phone{(+86) 17742877515} \textperiodcentered\ 
+  \faBriefcase{广告算法工程师}}
+ 
+\section{\faGraduationCap\  教育背景}
+\datedsubsection{\textbf{电子科技大学}, 成都, 四川}{2018.09 -- 2021.06}
+\textit{硕士研究生}\ 电子通信工程
+\datedsubsection{\textbf{华侨大学},厦门, 福建}{2014.09 -- 2018.06}
+\textit{学士}\ 电子信息工程
+
+\section{\faUsers\ 工作/项目经历}
+
+\datedsubsection{\textbf{京东}, 北京}{2021年07月 -- 至今}
+\role{正式员工}{算法工程师}
+
+\datedsubsection{\textbf{增长出价模型}}{ }
+% \role{}{基于用户价值和稀缺程度的外投算法(聚类、lookalike, GNN等)，对外投用户进行最优化增长出价，实现成本不变的情况下，最大化业务目标(DAU,MAU,广告收入)。}
+\begin{onehalfspacing}
+ 背景：基于用户价值和稀缺程度的外投算法(聚类、lookalike, GNN等)，对外投用户进行最优化增长出价，实现成本不变的情况下，最大化业务目标(DAU,MAU,广告收入)。
+\begin{itemize}
+  \item 多方向性人群扩散：
+  \item 目标人群优选模型：
+  \item 投放效果跟踪，
+\end{itemize}
+\end{onehalfspacing}
+
+\datedsubsection{\textbf{商品补贴优化}}{ }
+% \role{}{商品补贴项目旨在解决零售用户增长场景下的补贴挑战。平台通过商品补贴，来提升商品销量，进而增加新客获取并提高商品利润。然而，补贴总成本有限的情况下，需要找到最优的百万量级的商品补贴方案，最大化新客获取和商品利润。}
+\begin{onehalfspacing}
+背景：商品补贴项目旨在解决零售用户增长场景下的补贴挑战。平台通过商品补贴，来提升商品销量，进而增加新客获取并提高商品利润。然而，补贴总成本有限的情况下，需要找到最优的百万量级的商品补贴方案，最大化新客获取和商品利润。
+\begin{itemize}
+  \item 商品池初选，商品量价关系建设：
+  \item 演化算法运筹优化
+  \item 图书品类完全按照商品策略礼金方案设置优惠券，包含1.19万商品数，其中设置礼金券商品数1.11万，上线一周后，ROI提升40\%，CAC降低19\%的情况下，品类新新用户提升35.65\%（约2.8千/ 天）;
+\end{itemize}
+\end{onehalfspacing}
+
+\datedsubsection{\textbf{滴滴}, 北京}{2019年07月 -- 2020年6月}
+\role{实习}{算法工程师}
+
+\datedsubsection{\textbf{多任务优化}}{ }
+% \role{项目背景：CTR点击率预估模型}
+\begin{onehalfspacing}
+基于xx，解决xx，实现。
+\begin{itemize}
+  \item ctr模型探索，deepfm
+  \item 介于esmm搭建多任务框架
+  \item 业务效果
+\end{itemize}
+\end{onehalfspacing}
+
+% Reference Test
+%\datedsubsection{\textbf{Paper Title\cite{zaharia2012resilient}}}{May. 2015}
+%An xxx optimized for xxx\cite{verma2015large}
+%\begin{itemize}
+%  \item main contribution
+%\end{itemize}
+
+\section{\faCogs\ IT 技能}
+% increase linespacing [parsep=0.5ex]
+\begin{itemize}[parsep=0.5ex]
+  \item 编程语言: Python(掌握), Spark(掌握), Java(了解) ; 
+  \item 平台: Linux
+  % \item 开发: xxx
+\end{itemize}
+
+% \section{\faHeartO\ 获奖情况}
+% \datedline{\textit{第一名}, xxx 比赛}{2013 年6 月}
+% \datedline{其他奖项}{2015}
+
+\section{\faInfo\ 其他}
+% increase linespacing [parsep=0.5ex]
+\begin{itemize}[parsep=0.5ex]
+  \item 论文xx，专利
+  % \item GitHub: https://github.com/username
+  % \item 语言: 英语 - 熟练(TOEFL xxx)
+\end{itemize}
+
+%% Reference
+%\newpage
+%\bibliographystyle{IEEETran}
+%\bibliography{mycite}
+\end{document}
