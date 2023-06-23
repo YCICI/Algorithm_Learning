@@ -32,6 +32,9 @@
 ## 三数之和什么解法都需要排序 排序为了剪枝去掉重复解
 
 from collections import Counter
+
+
+
 class Solution:
     def threeSum(self, nums: List[int]) -> List[List[int]]:
         # #  粗暴解法 两层遍历 
@@ -59,7 +62,12 @@ class Solution:
 
         ## 常见解法 双指针
         # 
-        
-            
-            
 
+        return 
+
+
+
+
+
+            
+        
