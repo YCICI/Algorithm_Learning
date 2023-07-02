@@ -59,11 +59,37 @@ class Solution:
         #         if tmp_value in nums_count and nums_count[tmp_value] - tmp_use.get(tmp_value, 0) > 0:
         #             res.append([nums[i], nums[j], tmp_value])
         # return res
+        # 双指针法
+        # 排序 变成有序的两数之和来解
+        nums = sorted(nums)
+        print(nums)
+        n  = len(nums)
+        res = []
 
-        ## 常见解法 双指针
-        # 
+        for i in range(n):
+            # print(i)
 
-        return 
+            if i > 0 and nums[i] == nums[i - 1]:
+                continue
+            left, right = i + 1, n - 1
+            tmp_target = 0 - nums[i]
+            while left < right:
+                # 
+                if (nums[left] + nums[right]) == tmp_target:
+                    res.append([nums[i], nums[left], nums[right]])
+                    # 这里要注意的是 固定第一个数之后 两数之和的解不是唯一的 需要把其他情况都考虑
+                    while left + 1 < n and nums[left + 1] == nums[left]:
+                        left +=1
+                    while right + 1 < n and nums[right + 1] == nums[right]:
+                        right -=1
+                    left +=1
+                    right -=1
+                elif (nums[left] + nums[right]) > tmp_target:
+                    right -=1
+                elif (nums[left] + nums[right]) < tmp_target:
+                    left +=1
+            
+        return res
 
 
 
