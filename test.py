@@ -1,7 +1,33 @@
-# 给你一个整数数组 nums ，请你找出一个具有最大和的连续子数组（子数组最少包含一个元素），返回其最大和。
+# 假设你正在爬楼梯。需要 n 阶你才能到达楼顶。
+# 每次你可以爬 1 或 2 或 3 个台阶。你有多少种不同的方法可以爬到楼顶呢？
 
-# 子数组 是数组中的一个连续部分。
 
-# nums = [-2,1,-3,4,-1,2,1,-5,4]
+# 
+def solution(n):
+    #
+    if n <=2 :
+        return n
+    if n == 3:
+        return 4
+    
+    #
+    dp = [0] * n
+    # 
+    dp[1] = 1
+    dp[2] = 2
+    dp[3] = 4 
+    # print(dp)
+    
+    # 
+    for i in range(4, n):
+        # print("i", i)
+        dp[i] = dp[i - 1] + dp[i - 2] + dp[i - 3] 
+    
+    # print(dp)
+    return dp[n - 1]
 
-# nums = [5,4,-1,7,8]
+
+n = 11
+res = solution(n)
+print(res)
+

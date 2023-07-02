@@ -49,18 +49,13 @@ class Solution:
         #             break
         # return dp[0]
 
-        ## 贪心算法
-        # 维持一个当前最远距离
-        max_len = nums[0]
+        ## 贪心算法 维护最远距离
         n = len(nums)
+        max_len = 0
         for i in range(n):
-            # 当前点 可以达到 更新最远距离
-            if i <= max_len:
-                max_len = max(max_len, i + nums[i])
-                
-                # 最远距离可以到达最后一位 返回True
-                if max_len >= n - 1:
-                    return True
-        
-        return False
+            if i > max_len:
+                return False
+            max_len = max(max_len, i + nums[i])
+            
+        return True
 

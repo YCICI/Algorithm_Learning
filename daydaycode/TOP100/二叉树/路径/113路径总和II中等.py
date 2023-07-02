@@ -55,8 +55,7 @@ class Solution:
             path.append(root.val)
             process(root.left, neednum, path)
             process(root.right, neednum, path)
-            
-            neednum += root.val
+            # neednum += root.val
             path.pop()
 
             return
