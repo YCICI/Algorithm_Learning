@@ -18,11 +18,10 @@
 # 输出：9
 class Solution:
     def trap(self, height: List[int]) -> int:
-        # 有点混淆 什么时候直接用递归的方式求解 什么时候直接用动态规划
-        # 动态规划  左右遍历 这个和135题一样 需要左右遍历
-        # i位置能接雨水的最大高度heigh = min（左边高度，右边高度）
-        # 雨水量 = i位置能接雨水的最大高度heigh - i位置的高度
-
+         # 解法一 动态规划
+        # res[i]表示i位置能接的最大雨水，那么res[i] 取决于左边最大高度，右边最大高度，和i位置自己的高度
+        # 即res[i] = min(maxleft[i], maxright[i]) - height[i]
+        # 问题变成记录左右最大高度，暴力解法是分别左右遍历 优化解法是一次遍历记录下左右最大高度
         n = len(height)
         max_left = [0] * n
         max_right = [0] * n
@@ -41,6 +40,12 @@ class Solution:
             res += min(max_left[idx], max_right[idx]) - height[idx]
         
         return res
+
+
+
+        # 解法二 动态规划进一步优化 空间复杂度压缩至O(1)
+
+       
 
 
         

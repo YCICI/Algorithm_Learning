@@ -40,15 +40,29 @@
 # 1 <= nums.length <= 3 * 104
 # -104 <= nums[i] <= 104
 # nums 已按 升序 排列
+
 class Solution:
     def removeDuplicates(self, nums: List[int]) -> int:
-        # 双指针
-        left, right = 0, 1
-        while right < len(nums):
-            if nums[right] == nums[left]:
-                right += 1
-            else:
-                left +=1
-                nums[left] = nums[right]
-        # print(nums[:left+1])
-        return left + 1
+        # 双指针 解法一
+        # left, right = 0, 1
+        # while right < len(nums):
+        #     if nums[right] == nums[left]:
+        #         right += 1
+        #     else:
+        #         left +=1
+        #         nums[left] = nums[right]
+        # # print(nums[:left+1])
+        # return left + 1
+    
+        # 双指针 解法二
+
+        # 
+        n = len(nums)
+        slow = fast = 1
+        while fast < n:
+            if nums[fast] != nums[fast - 1]:
+                nums[slow] = nums[fast]
+                slow +=1
+            fast += 1
+        
+        return slow

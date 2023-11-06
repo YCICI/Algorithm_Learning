@@ -34,8 +34,31 @@ class Solution:
         """
         Do not return anything, modify nums1 in-place instead.
         """
-        # 双指针法
+        #解法一  双指针法 时间复杂度O(M + N) 空间复杂度O（M + N）
+        # res = []
+        # p1, p2 = 0, 0
 
+        # while p1 < m or p2 < n:
+        #     if p1 == m:
+        #         res.append(nums2[p2])
+        #         p2 += 1
+            
+        #     elif p2 == n :
+        #         res.append(nums1[p1])
+        #         p1 += 1
+
+        #     elif nums1[p1] < nums2[p2]:
+        #         res.append(nums1[p1])
+        #         p1 += 1
+        #     else:
+        #         res.append(nums2[p2])
+        #         p2 += 1
+            
+        # nums1[:] = res
+
+        
+
+        #解法二  倒序双指针法 时间复杂度O(M + N) 空间复杂度O（1）
         p1, p2 = m - 1, n - 1
         tail = m + n - 1
         # print(nums1[tail])
