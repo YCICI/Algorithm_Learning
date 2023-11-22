@@ -1,0 +1,1823 @@
+WARNING: The directory '/work/.cache/pip' or its parent directory is not owned or is not writable by the current user. The cache has been disabled. Check the permissions and owner of that directory. If executing pip with sudo, you should use sudo's -H flag.
+Package                            Version
+---------------------------------- -----------
+absl-py                            1.0.0
+adal                               1.2.4
+alabaster                          0.7.12
+anaconda-client                    1.7.2
+anaconda-navigator                 1.9.7
+anaconda-project                   0.8.2
+ansiwrap                           0.8.4
+asn1crypto                         0.24.0
+astor                              0.8.1
+astroid                            2.2.5
+astropy                            3.2.1
+atomicwrites                       1.3.0
+attrs                              19.1.0
+autograd                           1.3
+azure-datalake-store               0.0.50
+Babel                              2.7.0
+backcall                           0.1.0
+backports.os                       0.1.1
+backports.shutil-get-terminal-size 1.0.0
+beautifulsoup4                     4.7.1
+bitarray                           0.9.3
+bkcharts                           0.2
+blaze                              0.11.3
+bleach                             3.1.0
+blinker                            1.4
+bokeh                              1.2.0
+boto                               2.49.0
+boto3                              1.9.5
+botocore                           1.12.6
+Bottleneck                         1.2.1
+bz2file                            0.98
+certifi                            2020.6.20
+cffi                               1.12.3
+chardet                            3.0.4
+Click                              7.0
+cloudpickle                        1.2.1
+clyent                             1.2.2
+cma                                2.7.0
+colorama                           0.4.1
+conda                              4.8.5
+conda-build                        3.18.2
+conda-package-handling             1.3.9
+conda-verify                       3.1.1
+confluent-kafka                    1.5.0
+constant                           0.0.4
+contextlib2                        0.5.5
+core-module                        1.1.6
+cryptography                       2.7
+cycler                             0.10.0
+Cython                             0.29.10
+cytoolz                            0.9.0.1
+das                                1.2.11
+das-9n-client                      1.0.1
+das-9n-storage                     1.0.2
+das-storage                        1.0.4
+dask                               1.2.2
+datashape                          0.5.4
+decorator                          4.4.0
+defusedxml                         0.5.0
+Deprecated                         1.2.13
+distributed                        1.28.1
+docutils                           0.14
+entrypoints                        0.3
+escapism                           1.0.0
+et-xmlfile                         1.0.1
+fastcache                          1.1.0
+filelock                           3.0.10
+Flask                              1.0.3
+Flask-Cors                         3.0.8
+future                             0.17.1
+gast                               0.2.2
+gensim                             3.5.0
+gevent                             1.4.0
+glob2                              0.7
+gmpy2                              2.1.0b1
+google-pasta                       0.2.0
+greenlet                           0.4.15
+grpcio                             1.25.0
+h5py                               2.9.0
+heapdict                           1.0.0
+html5lib                           1.0.1
+idna                               2.8
+imageio                            2.5.0
+imagesize                          1.1.0
+importlib-metadata                 4.8.2
+ipykernel                          5.3.4
+ipython                            7.0.1
+ipython-genutils                   0.2.0
+ipywidgets                         7.4.2
+isort                              4.3.20
+itsdangerous                       1.1.0
+jdcal                              1.4.1
+jedi                               0.13.3
+jeepney                            0.4
+jieba                              0.39
+Jinja2                             2.10.1
+jmespath                           0.9.4
+joblib                             0.13.2
+jsonschema                         3.0.1
+jupyter-client                     5.2.4
+jupyter-console                    6.0.0
+jupyter-core                       4.4.0
+jupyterlab                         0.35.6
+jupyterlab-launcher                0.13.1
+jupyterlab-server                  0.2.0
+Keras                              2.2.5
+Keras-Applications                 1.0.8
+Keras-Preprocessing                1.1.2
+keyring                            19.0.2
+kiwisolver                         1.1.0
+lazy-object-proxy                  1.4.1
+libarchive-c                       2.8
+lief                               0.9.0
+lightgbm                           2.1.2
+llvmlite                           0.28.0
+locket                             0.2.0
+lockfile                           0.12.2
+lxml                               4.3.4
+Markdown                           3.3.6
+MarkupSafe                         1.1.1
+matplotlib                         3.1.0
+mccabe                             0.6.1
+mistune                            0.8.4
+mkl-service                        2.1.0
+mock                               3.0.5
+more-itertools                     4.3.0
+mpmath                             1.1.0
+msgpack                            0.6.1
+multipledispatch                   0.6.0
+navigator-updater                  0.2.1
+nbconvert                          5.5.0
+nbexamples                         0+unknown
+nbformat                           4.4.0
+networkx                           2.3
+nltk                               3.2.5
+nose                               1.3.7
+notebook                           5.7.8
+numba                              0.43.1
+numexpr                            2.6.9
+numpy                              1.19.4
+numpydoc                           0.9.1
+oauthlib                           3.0.1
+odo                                0.5.1
+olefile                            0.46
+opencv-contrib-python              3.4.3.18
+opencv-python                      3.4.3.18
+openpyxl                           2.6.1
+opt-einsum                         3.3.0
+ortools                            9.0.9048
+packaging                          21.3
+pandas                             1.1.5
+pandocfilters                      1.4.2
+papermill                          0.15.1
+parso                              0.4.0
+partd                              0.3.10
+path.py                            12.0.1
+pathlib2                           2.3.3
+patsy                              0.5.1
+pep8                               1.7.1
+pexpect                            4.7.0
+pickleshare                        0.7.5
+Pillow                             6.0.0
+pinoctl                            1.2.7
+pip                                21.3.1
+pkginfo                            1.5.0.1
+pluggy                             0.12.0
+ply                                3.11
+prometheus-client                  0.7.0
+prompt-toolkit                     2.0.9
+protobuf                           3.14.0
+psutil                             5.6.3
+ptyprocess                         0.6.0
+py                                 1.8.0
+pycodestyle                        2.5.0
+pycosat                            0.6.3
+pycparser                          2.19
+pycrypto                           2.6.1
+pycurl                             7.43.0.2
+pyflakes                           2.1.1
+Pygments                           2.4.2
+PyJWT                              1.7.1
+pylint                             2.3.1
+pymoo                              0.5.0
+pyodbc                             4.0.24
+pyOpenSSL                          19.0.0
+pyopt                              0.84
+pyparsing                          2.4.0
+pyrsistent                         0.15.2
+PySocks                            1.7.0
+pytest                             4.6.3
+pytest-arraydiff                   0.3
+pytest-astropy                     0.5.0
+pytest-doctestplus                 0.3.0
+pytest-openfiles                   0.3.1
+pytest-remotedata                  0.3.1
+python-crfsuite                    0.9.6
+python-daemon                      2.3.0
+python-dateutil                    2.8.0
+pytz                               2019.1
+PyWavelets                         1.0.3
+PyYAML                             5.1.1
+pyzmq                              18.0.1
+QtAwesome                          0.5.7
+qtconsole                          4.5.1
+QtPy                               1.8.0
+redis                              4.1.4
+requests                           2.22.0
+requests-oauthlib                  1.2.0
+rope                               0.14.0
+ruamel-yaml                        0.15.71
+s3transfer                         0.1.13
+scikit-image                       0.13.1
+scikit-learn                       0.23.1
+scipy                              1.1.0
+seaborn                            0.9.0
+SecretStorage                      3.1.1
+Send2Trash                         1.5.0
+serving-client                     1.0.1
+setuptools                         41.0.1
+Shapely                            1.6.4.post2
+simplegeneric                      0.8.1
+singledispatch                     3.4.0.3
+six                                1.12.0
+smart-open                         1.8.4
+snowballstemmer                    1.2.1
+sortedcollections                  1.1.2
+sortedcontainers                   2.1.0
+soupsieve                          1.9.1
+Sphinx                             2.1.2
+sphinxcontrib-applehelp            1.0.1
+sphinxcontrib-devhelp              1.0.1
+sphinxcontrib-htmlhelp             1.0.2
+sphinxcontrib-jsmath               1.0.1
+sphinxcontrib-qthelp               1.0.2
+sphinxcontrib-serializinghtml      1.1.1
+sphinxcontrib-websupport           1.1.2
+spyder                             3.3.4
+spyder-kernels                     0.4.4
+SQLAlchemy                         1.3.5
+statsmodels                        0.9.0
+sympy                              1.4
+tables                             3.5.1
+tblib                              1.4.0
+tensorboard                        1.15.0
+tensorflow                         1.15.0
+tensorflow-estimator               1.15.1
+termcolor                          1.1.0
+terminado                          0.8.2
+testpath                           0.4.2
+textwrap3                          0.9.2
+threadpoolctl                      3.1.0
+tomli                              1.2.3
+toolz                              0.9.0
+tornado                            6.0.2
+tqdm                               4.26.0
+traitlets                          4.3.2
+twython                            3.7.0
+typed-ast                          1.3.5
+typing                             3.6.4
+typing_extensions                  4.0.1
+tzk                                0.2.2
+unicodecsv                         0.14.1
+urllib3                            1.23
+wcwidth                            0.1.7
+webencodings                       0.5.1
+Werkzeug                           0.15.4
+wheel                              0.33.4
+widgetsnbextension                 3.4.2
+woe                                0.1.4
+wrapt                              1.13.3
+wurlitzer                          1.0.3
+xlrd                               1.2.0
+XlsxWriter                         1.1.8
+xlwt                               1.3.0
+zict                               0.1.4
+zipp                               0.5.1
+WARNING: The repository located at easyalgo.jd.com is not a trusted or secure host and is being ignored. If this repository is available via HTTPS we recommend you use HTTPS instead, otherwise you may silence this warning and allow it anyway with '--trusted-host easyalgo.jd.com'.
+WARNING: The repository located at mirrors.jd.com is not a trusted or secure host and is being ignored. If this repository is available via HTTPS we recommend you use HTTPS instead, otherwise you may silence this warning and allow it anyway with '--trusted-host mirrors.jd.com'.
+七月 12, 2022 6:54:33 下午 io.prometheus.jmx.shaded.MetricsWrapperShaded run
+信息: Run jmx exporter with ENV: SPARK_JMX_EXPORTER_ENABLE=null
+Warning: Master yarn-cluster is deprecated since 2.0. Please use master "yarn" with specified deploy mode instead.
+22/07/12 18:54:33 [main] WARN SparkConf: The configuration key 'spark.yarn.executor.memoryOverhead' has been deprecated as of Spark 2.3 and may be removed in the future. Please use the new key 'spark.executor.memoryOverhead' instead.
+22/07/12 18:54:34 [main] WARN Utils: JDSpark: spark.executor.instances:450 is greater than spark.dynamicAllocation.maxExecutors:100, so reset spark.dynamicAllocation.maxExecutors to 450. This conversion will be deprecated in the future releases, please set spark.dynamicAllocation.maxExecutors correctly! 
+22/07/12 18:54:35 [main] INFO RMProxy: Using Router failover provider org.apache.hadoop.yarn.client.ConfiguredRouterFailoverProxyProvider
+22/07/12 18:54:35 [main] INFO ConfiguredRouterFailoverProxyProvider: yarn.federation.multi-router.shuffle.enabled=true, Router failover list index begin to 1
+22/07/12 18:54:35 [main] INFO ConfiguredRouterFailoverProxyProvider: HADOOP_FEDERATION_ROUTER_FAILOVER_ENABLED = true, Connect to the cluster using Router-failover model
+22/07/12 18:54:35 [main] INFO ConfiguredRouterFailoverProxyProvider: Connect to Router 10.198.21.138:8050
+22/07/12 18:54:35 [main] INFO Client: Requesting a new application from cluster with 16504 NodeManagers
+22/07/12 18:54:35 [main] INFO YarnClientImpl: Create Applicaiton application_5938451104802_7913334 elapsed: 15 ms.
+22/07/12 18:54:35 [send-sparkconf-2-kongming] INFO KongmingOptimizeSparkUtils: Kongming Output Parameters:
+newConfXml = <?xml version="1.0" encoding="UTF-8" standalone="no"?><configuration></configuration>
+
+22/07/12 18:54:35 [main] INFO Client: Setting up container launch context for our AM
+22/07/12 18:54:35 [main] INFO Client: Setting up the launch environment for our AM container
+22/07/12 18:54:35 [main] INFO Client: Preparing resources for our AM container
+22/07/12 18:54:35 [main] WARN Client: Neither spark.yarn.jars nor spark.yarn.archive is set, falling back to uploading libraries under SPARK_HOME.
+22/07/12 18:54:37 [main] INFO Client: Uploading resource file:/tmp/spark/spark-0d07a3c7-6365-4a82-9114-e4801189af0b/__spark_libs__8800478387750066855.zip -> hdfs://ns1009/user/mart_jypt/mart_jypt_usr_grow/.sparkStaging/application_5938451104802_7913334/__spark_libs__8800478387750066855.zip
+22/07/12 18:54:39 [main] INFO Client: Uploading resource file:/media/cfs/yuchuchu/machine/machine_algo/用户管理中心/2流量生成模块/src/month_week_plan/get_base_data.sql -> hdfs://ns1009/user/mart_jypt/mart_jypt_usr_grow/.sparkStaging/application_5938451104802_7913334/get_base_data.sql
+22/07/12 18:54:40 [main] INFO Client: Uploading resource file:/media/cfs/yuchuchu/machine/machine_algo/用户管理中心/2流量生成模块/src/month_week_plan/get_lastday_data.sql -> hdfs://ns1009/user/mart_jypt/mart_jypt_usr_grow/.sparkStaging/application_5938451104802_7913334/get_lastday_data.sql
+22/07/12 18:54:40 [main] INFO Client: Uploading resource file:/media/cfs/yuchuchu/machine/machine_algo/用户管理中心/2流量生成模块/src/month_week_plan/get_newuser_base_data.sql -> hdfs://ns1009/user/mart_jypt/mart_jypt_usr_grow/.sparkStaging/application_5938451104802_7913334/get_newuser_base_data.sql
+22/07/12 18:54:40 [main] INFO Client: Uploading resource file:/media/cfs/yuchuchu/machine/machine_algo/用户管理中心/2流量生成模块/src/month_week_plan/dev_algo_pin_interim.py -> hdfs://ns1009/user/mart_jypt/mart_jypt_usr_grow/.sparkStaging/application_5938451104802_7913334/dev_algo_pin_interim.py
+22/07/12 18:54:40 [main] INFO Client: Uploading resource file:/software/servers/hope/mart_sch/spark/python/lib/pyspark.zip -> hdfs://ns1009/user/mart_jypt/mart_jypt_usr_grow/.sparkStaging/application_5938451104802_7913334/pyspark.zip
+22/07/12 18:54:40 [main] INFO Client: Uploading resource file:/software/servers/hope/mart_sch/spark/python/lib/py4j-0.10.7-src.zip -> hdfs://ns1009/user/mart_jypt/mart_jypt_usr_grow/.sparkStaging/application_5938451104802_7913334/py4j-0.10.7-src.zip
+22/07/12 18:54:40 [main] INFO Client: Uploading resource file:/tmp/spark/spark-0d07a3c7-6365-4a82-9114-e4801189af0b/__spark_conf__8507836818398435320.zip -> hdfs://ns1009/user/mart_jypt/mart_jypt_usr_grow/.sparkStaging/application_5938451104802_7913334/__spark_conf__.zip
+22/07/12 18:54:40 [main] INFO Client: ===============================================================================
+22/07/12 18:54:40 [main] INFO Client: YARN AM launch context:
+22/07/12 18:54:40 [main] INFO Client:     user class: org.apache.spark.deploy.PythonRunner
+22/07/12 18:54:40 [main] INFO Client:     env:
+22/07/12 18:54:40 [main] INFO Client:         yarn.nodemanager.docker-container-executor.image-name -> bdp-docker.jd.com:5000/wise_mart_jypt:latest
+22/07/12 18:54:40 [main] INFO Client:         CLASSPATH -> {{PWD}}<CPS>{{PWD}}/__spark_conf__<CPS>{{PWD}}/__spark_conf__/__hadoop_conf__<CPS>{{PWD}}/__spark_libs__/*<CPS>$HADOOP_CONF_DIR<CPS>$HADOOP_COMMON_HOME/share/hadoop/common/*<CPS>$HADOOP_COMMON_HOME/share/hadoop/common/lib/*<CPS>$HADOOP_HDFS_HOME/share/hadoop/hdfs/*<CPS>$HADOOP_HDFS_HOME/share/hadoop/hdfs/lib/*<CPS>$HADOOP_YARN_HOME/share/hadoop/yarn/*<CPS>$HADOOP_YARN_HOME/share/hadoop/yarn/lib/*<CPS>$HADOOP_MAPRED_HOME/share/hadoop/mapreduce/*<CPS>$HADOOP_MAPRED_HOME/share/hadoop/mapreduce/lib/*
+22/07/12 18:54:40 [main] INFO Client:         PYSPARK_DRIVER_PYTHON -> /usr/local/anaconda3//bin/python
+22/07/12 18:54:40 [main] INFO Client:         yarn.nodemanager.container-executor.class -> DockerLinuxContainer
+22/07/12 18:54:40 [main] INFO Client:         SPARK_YARN_STAGING_DIR -> hdfs://ns1009/user/mart_jypt/mart_jypt_usr_grow/.sparkStaging/application_5938451104802_7913334
+22/07/12 18:54:40 [main] INFO Client:         SPARK_USER -> mart_jypt_usr_grow
+22/07/12 18:54:40 [main] INFO Client:         PYTHONHASHSEED -> 0
+22/07/12 18:54:40 [main] INFO Client:         JAVA_HOME -> /software/servers/jdk1.8.0_221
+22/07/12 18:54:40 [main] INFO Client:         PYTHONPATH -> /software/servers/hope/mart_sch/spark/python:/software/servers/hope/mart_sch/spark/python/lib/py4j-0.10.7-src.zip::/software/servers/hope/mart_sch/HiveTask/:/software/servers/hope/mart_sch/HiveTask/:/software/servers/hope/mart_sch/HiveTask/<CPS>{{PWD}}/pyspark.zip<CPS>{{PWD}}/py4j-0.10.7-src.zip
+22/07/12 18:54:40 [main] INFO Client:         PYSPARK_PYTHON -> /usr/local/anaconda3//bin/python
+22/07/12 18:54:40 [main] INFO Client:     resources:
+22/07/12 18:54:40 [main] INFO Client:     command:
+22/07/12 18:54:40 [main] INFO Client:         LD_LIBRARY_PATH=\"/software/servers/hadoop-2.7.1/lib/native:/software/servers/yarn-2.7.1/lib/native:$LD_LIBRARY_PATH\" {{JAVA_HOME}}/bin/java -server -Xmx12288m -Djava.io.tmpdir={{PWD}}/tmp '-Dorg.asynchttpclient.readTimeout=5000' '-Dorg.asynchttpclient.connectionTtl=60000' '-Dorg.asynchttpclient.acquireFreeChannelTimeout=10000' -Dspark.yarn.app.container.log.dir=<LOG_DIR> org.apache.spark.deploy.yarn.ApplicationMaster --class 'org.apache.spark.deploy.PythonRunner' --primary-py-file dev_algo_pin_interim.py --arg '2022-07-05' --arg 'low_test' --arg '('\''gy_new'\'')' --properties-file {{PWD}}/__spark_conf__/__spark_conf__.properties 1> <LOG_DIR>/spark_stdout 2> <LOG_DIR>/spark_stderr
+22/07/12 18:54:40 [main] INFO Client: ===============================================================================
+22/07/12 18:54:40 [main] INFO SecurityManager: Changing view acls to: yuchuchu,mart_jypt_usr_grow
+22/07/12 18:54:40 [main] INFO SecurityManager: Changing modify acls to: yuchuchu,mart_jypt_usr_grow
+22/07/12 18:54:40 [main] INFO SecurityManager: Changing view acls groups to: 
+22/07/12 18:54:40 [main] INFO SecurityManager: Changing modify acls groups to: 
+22/07/12 18:54:40 [main] INFO SecurityManager: SecurityManager: authentication disabled; ui acls disabled; users  with view permissions: Set(yuchuchu, mart_jypt_usr_grow); groups with view permissions: Set(); users  with modify permissions: Set(yuchuchu, mart_jypt_usr_grow); groups with modify permissions: Set()
+22/07/12 18:54:41 [main] INFO Client: Submitting application application_5938451104802_7913334 to ResourceManager
+22/07/12 18:54:41 [main] INFO YarnClientImpl: Begin to submit application: application_5938451104802_7913334 to queue: bdp_jmart_sch_union.bdp_jmart_jypt_union.bdp_jmart_yhzz_formal 
+22/07/12 18:54:41 [main] INFO YarnClientImpl: Submitted application application_5938451104802_7913334
+22/07/12 18:54:41 [main] INFO YarnClientImpl: End to submit application: application_5938451104802_7913334 to queue: bdp_jmart_sch_union.bdp_jmart_jypt_union.bdp_jmart_yhzz_formal , elapsed: 47 ms.
+22/07/12 18:54:43 [main] INFO SecurityManager: Changing view acls to: yuchuchu,mart_jypt_usr_grow
+22/07/12 18:54:43 [main] INFO SecurityManager: Changing modify acls to: yuchuchu,mart_jypt_usr_grow
+22/07/12 18:54:43 [main] INFO SecurityManager: Changing view acls groups to: 
+22/07/12 18:54:43 [main] INFO SecurityManager: Changing modify acls groups to: 
+22/07/12 18:54:43 [main] INFO SecurityManager: SecurityManager: authentication disabled; ui acls disabled; users  with view permissions: Set(yuchuchu, mart_jypt_usr_grow); groups with view permissions: Set(); users  with modify permissions: Set(yuchuchu, mart_jypt_usr_grow); groups with modify permissions: Set()
+22/07/12 18:54:43 [main] INFO Utils: Successfully started service 'amClient' on port 33219.
+22/07/12 18:54:43 [main] INFO Client: Application report for application_5938451104802_7913334 (state: ACCEPTED)
+22/07/12 18:54:44 [main] INFO Client: 
+	 client token: N/A
+	 diagnostics: N/A
+	 ApplicationMaster host: N/A
+	 ApplicationMaster RPC port: -1
+	 queue: root.lvl103.lvl201.lvl302
+	 start time: 1657623281654
+	 final status: UNDEFINED
+	 tracking URL: http://BJHTYD-Hope-23-194.hadoop.jd.local:50320/proxy/application_5938451104802_7913334/
+	 user: mart_jypt_usr_grow
+	 Spark UI: http://hope.jd.com/proxy/application_5938451104802_7913334/
+	 注意: 如需通过UI查看Spark运行情况, 当spark任务正在运行时可直接请求Spark UI对应的链接，如果spark任务已完成请查看对应的History(https://cf.jd.com/pages/viewpage.action?pageId=253780395)
+22/07/12 18:54:46 [main] INFO Client: Application report for application_5938451104802_7913334 (state: ACCEPTED)
+22/07/12 18:54:48 [main] INFO Client: Application report for application_5938451104802_7913334 (state: ACCEPTED)
+22/07/12 18:54:50 [main] INFO Client: Application report for application_5938451104802_7913334 (state: ACCEPTED)
+22/07/12 18:54:52 [main] INFO Client: Application report for application_5938451104802_7913334 (state: ACCEPTED)
+22/07/12 18:54:54 [main] INFO Client: Application report for application_5938451104802_7913334 (state: ACCEPTED)
+22/07/12 18:54:56 [main] INFO Client: Application report for application_5938451104802_7913334 (state: ACCEPTED)
+22/07/12 18:54:58 [main] INFO Client: Application report for application_5938451104802_7913334 (state: ACCEPTED)
+22/07/12 18:55:00 [netty-rpc-connection-0] INFO TransportClientFactory: Successfully created connection to BJHTYD-Hope-11-11-21-207.hadoop.jd.local/11.11.21.207:20112 after 43 ms (0 ms spent in bootstraps)
+22/07/12 18:55:00 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 18:55:00 [main] INFO Client: 
+	 client token: N/A
+	 diagnostics: N/A
+	 ApplicationMaster host: BJHTYD-Hope-11-11-21-207.hadoop.jd.local
+	 ApplicationMaster RPC port: 20112
+	 queue: root.lvl103.lvl201.lvl302
+	 start time: 1657623281654
+	 final status: UNDEFINED
+	 tracking URL: http://BJHTYD-Hope-23-194.hadoop.jd.local:50320/proxy/application_5938451104802_7913334/
+	 user: mart_jypt_usr_grow
+	 Spark UI: http://hope.jd.com/proxy/application_5938451104802_7913334/
+	 注意: 如需通过UI查看Spark运行情况, 当spark任务正在运行时可直接请求Spark UI对应的链接，如果spark任务已完成请查看对应的History(https://cf.jd.com/pages/viewpage.action?pageId=253780395)
+22/07/12 18:55:00 [rpc-client-1-1] INFO Client: The driverLogBaseUrl is http://BJHTYD-Hope-11-11-21-207.hadoop.jd.local:8042/node/containerlogs/container_e248_5938451104802_7913334_01_000001/mart_jypt_usr_grow
+22/07/12 18:55:02 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 18:55:04 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 18:55:06 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 18:55:08 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 18:55:10 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 18:55:12 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 18:55:14 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 18:55:16 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 18:55:18 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 18:55:20 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 18:55:22 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 18:55:24 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 18:55:26 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 18:55:28 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 18:55:30 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 18:55:32 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 18:55:34 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 18:55:36 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 18:55:38 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 18:55:40 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 18:55:42 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 18:55:44 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 18:55:46 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 18:55:48 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 18:55:50 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 18:55:52 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 18:55:54 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 18:55:56 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 18:55:58 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 18:56:00 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 18:56:02 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 18:56:04 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 18:56:06 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 18:56:08 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 18:56:10 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 18:56:12 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 18:56:14 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 18:56:16 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 18:56:18 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 18:56:20 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 18:56:22 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 18:56:24 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 18:56:26 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 18:56:28 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 18:56:30 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 18:56:32 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 18:56:34 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 18:56:36 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 18:56:38 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 18:56:40 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 18:56:42 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 18:56:44 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 18:56:46 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 18:56:48 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 18:56:50 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 18:56:52 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 18:56:54 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 18:56:56 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 18:56:58 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 18:57:00 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 18:57:02 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 18:57:04 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 18:57:06 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 18:57:08 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 18:57:10 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 18:57:12 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 18:57:14 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 18:57:16 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 18:57:18 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 18:57:20 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 18:57:22 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 18:57:24 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 18:57:26 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 18:57:28 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 18:57:30 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 18:57:32 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 18:57:34 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 18:57:36 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 18:57:38 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 18:57:40 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 18:57:42 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 18:57:44 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 18:57:46 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 18:57:48 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 18:57:50 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 18:57:52 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 18:57:54 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 18:57:56 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 18:57:58 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 18:58:00 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 18:58:02 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 18:58:04 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 18:58:06 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 18:58:08 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 18:58:10 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 18:58:12 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 18:58:14 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 18:58:16 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 18:58:18 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 18:58:20 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 18:58:22 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 18:58:24 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 18:58:26 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 18:58:28 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 18:58:30 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 18:58:32 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 18:58:34 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 18:58:36 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 18:58:38 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 18:58:40 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 18:58:42 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 18:58:44 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 18:58:46 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 18:58:48 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 18:58:51 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 18:58:53 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 18:58:55 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 18:58:57 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 18:58:59 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 18:59:01 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 18:59:03 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 18:59:05 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 18:59:07 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 18:59:09 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 18:59:11 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 18:59:13 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 18:59:15 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 18:59:17 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 18:59:19 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 18:59:21 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 18:59:23 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 18:59:25 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 18:59:27 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 18:59:29 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 18:59:31 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 18:59:33 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 18:59:35 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 18:59:37 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 18:59:39 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 18:59:41 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 18:59:43 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 18:59:45 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 18:59:47 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 18:59:49 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 18:59:51 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 18:59:53 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 18:59:55 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 18:59:57 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 18:59:59 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:00:01 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:00:03 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:00:05 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:00:07 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:00:09 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:00:11 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:00:13 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:00:15 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:00:17 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:00:19 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:00:21 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:00:23 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:00:25 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:00:27 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:00:29 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:00:31 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:00:33 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:00:35 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:00:37 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:00:39 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:00:41 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:00:43 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:00:45 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:00:47 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:00:49 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:00:51 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:00:53 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:00:55 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:00:57 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:00:59 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:01:01 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:01:03 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:01:05 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:01:07 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:01:09 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:01:11 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:01:13 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:01:15 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:01:17 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:01:19 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:01:21 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:01:23 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:01:25 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:01:27 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:01:30 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:01:32 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:01:34 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:01:36 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:01:38 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:01:40 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:01:42 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:01:44 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:01:46 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:01:48 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:01:50 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:01:52 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:01:54 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:01:56 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:01:58 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:02:00 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:02:02 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:02:04 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:02:06 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:02:08 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:02:10 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:02:12 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:02:14 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:02:16 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:02:18 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:02:20 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:02:22 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:02:24 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:02:26 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:02:28 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:02:30 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:02:32 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:02:34 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:02:36 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:02:38 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:02:40 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:02:42 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:02:44 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:02:46 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:02:48 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:02:50 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:02:52 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:02:54 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:02:56 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:02:58 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:03:00 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:03:02 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:03:04 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:03:06 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:03:08 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:03:10 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:03:12 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:03:14 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:03:16 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:03:18 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:03:20 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:03:22 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:03:24 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:03:26 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:03:28 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:03:30 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:03:32 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:03:34 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:03:36 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:03:38 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:03:40 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:03:42 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:03:44 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:03:46 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:03:48 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:03:50 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:03:52 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:03:54 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:03:56 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:03:58 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:04:00 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:04:02 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:04:04 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:04:06 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:04:08 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:04:10 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:04:12 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:04:14 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:04:16 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:04:18 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:04:20 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:04:22 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:04:24 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:04:26 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:04:28 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:04:30 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:04:32 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:04:34 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:04:36 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:04:38 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:04:40 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:04:42 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:04:44 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:04:46 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:04:48 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:04:50 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:04:52 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:04:54 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:04:56 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:04:58 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:05:00 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:05:02 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:05:04 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:05:06 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:05:08 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:05:10 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:05:12 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:05:14 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:05:16 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:05:18 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:05:20 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:05:22 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:05:24 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:05:26 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:05:28 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:05:30 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:05:32 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:05:34 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:05:36 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:05:38 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:05:40 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:05:42 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:05:44 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:05:46 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:05:48 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:05:50 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:05:52 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:05:54 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:05:56 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:05:58 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:06:00 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:06:02 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:06:04 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:06:06 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:06:08 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:06:10 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:06:12 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:06:14 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:06:16 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:06:18 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:06:20 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:06:22 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:06:24 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:06:26 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:06:28 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:06:30 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:06:32 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:06:34 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:06:36 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:06:38 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:06:40 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:06:42 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:06:44 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:06:46 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:06:48 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:06:50 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:06:52 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:06:54 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:06:56 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:06:58 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:07:00 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:07:02 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:07:04 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:07:06 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:07:08 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:07:10 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:07:12 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:07:14 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:07:16 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:07:18 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:07:20 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:07:22 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:07:24 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:07:26 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:07:28 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:07:30 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:07:32 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:07:34 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:07:36 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:07:38 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:07:40 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:07:42 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:07:44 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:07:46 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:07:48 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:07:50 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:07:52 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:07:54 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:07:56 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:07:58 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:08:00 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:08:02 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:08:04 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:08:06 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:08:08 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:08:10 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:08:12 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:08:14 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:08:16 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:08:18 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:08:20 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:08:22 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:08:24 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:08:26 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:08:28 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:08:30 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:08:32 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:08:34 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:08:36 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:08:38 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:08:40 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:08:42 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:08:44 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:08:46 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:08:48 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:08:51 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:08:53 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:08:55 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:08:57 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:08:59 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:09:01 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:09:03 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:09:05 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:09:07 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:09:09 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:09:11 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:09:13 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:09:15 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:09:17 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:09:19 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:09:21 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:09:23 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:09:25 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:09:27 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:09:29 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:09:31 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:09:33 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:09:35 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:09:37 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:09:39 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:09:41 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:09:43 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:09:45 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:09:47 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:09:49 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:09:51 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:09:53 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:09:55 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:09:57 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:09:59 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:10:01 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:10:03 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:10:05 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:10:07 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:10:09 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:10:11 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:10:13 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:10:15 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:10:17 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:10:19 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:10:21 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:10:23 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:10:25 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:10:27 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:10:29 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:10:31 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:10:33 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:10:35 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:10:37 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:10:39 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:10:41 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:10:43 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:10:45 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:10:47 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:10:49 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:10:51 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:10:53 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:10:55 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:10:57 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:10:59 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:11:01 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:11:03 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:11:05 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:11:07 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:11:09 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:11:11 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:11:13 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:11:15 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:11:17 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:11:19 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:11:21 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:11:23 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:11:25 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:11:27 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:11:29 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:11:31 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:11:33 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:11:35 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:11:37 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:11:39 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:11:41 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:11:43 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:11:45 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:11:47 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:11:49 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:11:51 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:11:53 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:11:55 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:11:57 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:12:00 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:12:02 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:12:04 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:12:06 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:12:08 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:12:10 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:12:12 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:12:14 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:12:16 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:12:18 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:12:20 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:12:22 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:12:24 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:12:26 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:12:28 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:12:30 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:12:32 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:12:34 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:12:36 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:12:38 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:12:40 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:12:42 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:12:44 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:12:46 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:12:48 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:12:50 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:12:52 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:12:54 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:12:56 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:12:58 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:13:00 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:13:02 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:13:04 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:13:06 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:13:08 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:13:10 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:13:12 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:13:14 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:13:16 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:13:18 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:13:20 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:13:22 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:13:24 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:13:26 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:13:28 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:13:30 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:13:32 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:13:34 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:13:36 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:13:38 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:13:40 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:13:42 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:13:44 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:13:46 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:13:48 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:13:50 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:13:52 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:13:54 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:13:56 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:13:58 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:14:00 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:14:02 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:14:04 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:14:06 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:14:08 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:14:10 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:14:12 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:14:14 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:14:16 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:14:18 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:14:20 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:14:22 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:14:24 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:14:26 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:14:28 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:14:30 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:14:32 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:14:34 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:14:36 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:14:38 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:14:40 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:14:42 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:14:44 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:14:46 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:14:48 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:14:50 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:14:52 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:14:54 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:14:56 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:14:58 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:15:00 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:15:02 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:15:04 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:15:06 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:15:08 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:15:10 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:15:12 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:15:14 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:15:16 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:15:18 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:15:20 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:15:22 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:15:24 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:15:26 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:15:28 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:15:30 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:15:32 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:15:34 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:15:36 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:15:38 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:15:40 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:15:42 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:15:44 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:15:46 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:15:48 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:15:50 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:15:52 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:15:54 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:15:56 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:15:58 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:16:00 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:16:02 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:16:04 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:16:06 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:16:08 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:16:10 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:16:12 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:16:14 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:16:16 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:16:18 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:16:20 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:16:22 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:16:24 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:16:26 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:16:28 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:16:30 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:16:32 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:16:34 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:16:36 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:16:38 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:16:40 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:16:42 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:16:44 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:16:46 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:16:48 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:16:50 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:16:52 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:16:54 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:16:56 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:16:58 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:17:00 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:17:02 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:17:04 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:17:06 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:17:08 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:17:10 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:17:12 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:17:14 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:17:16 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:17:18 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:17:20 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:17:22 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:17:24 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:17:26 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:17:28 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:17:30 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:17:32 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:17:34 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:17:36 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:17:38 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:17:40 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:17:42 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:17:44 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:17:46 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:17:48 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:17:50 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:17:52 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:17:54 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:17:56 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:17:58 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:18:00 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:18:02 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:18:04 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:18:06 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:18:08 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:18:10 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:18:12 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:18:14 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:18:16 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:18:18 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:18:20 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:18:22 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:18:24 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:18:26 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:18:28 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:18:30 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:18:32 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:18:34 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:18:36 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:18:38 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:18:40 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:18:42 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:18:44 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:18:46 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:18:48 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:18:50 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:18:52 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:18:54 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:18:56 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:18:58 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:19:00 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:19:02 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:19:04 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:19:06 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:19:08 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:19:10 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:19:12 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:19:14 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:19:16 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:19:18 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:19:20 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:19:22 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:19:24 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:19:26 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:19:28 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:19:30 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:19:32 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:19:34 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:19:36 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:19:38 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:19:40 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:19:42 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:19:44 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:19:46 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:19:48 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:19:50 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:19:52 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:19:54 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:19:56 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:19:58 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:20:00 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:20:02 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:20:04 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:20:06 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:20:08 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:20:10 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:20:12 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:20:14 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:20:16 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:20:18 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:20:20 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:20:22 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:20:24 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:20:26 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:20:28 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:20:30 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:20:32 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:20:35 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:20:37 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:20:39 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:20:41 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:20:43 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:20:45 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:20:47 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:20:49 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:20:51 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:20:53 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:20:55 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:20:57 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:20:59 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:21:01 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:21:03 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:21:05 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:21:07 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:21:09 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:21:11 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:21:13 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:21:15 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:21:17 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:21:19 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:21:21 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:21:23 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:21:25 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:21:27 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:21:29 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:21:31 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:21:33 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:21:35 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:21:37 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:21:39 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:21:41 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:21:43 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:21:45 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:21:47 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:21:49 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:21:51 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:21:53 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:21:55 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:21:57 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:21:59 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:22:01 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:22:03 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:22:05 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:22:07 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:22:09 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:22:11 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:22:13 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:22:15 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:22:17 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:22:19 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:22:21 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:22:23 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:22:25 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:22:27 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:22:29 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:22:31 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:22:33 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:22:35 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:22:37 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:22:39 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:22:41 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:22:43 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:22:45 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:22:47 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:22:49 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:22:51 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:22:53 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:22:55 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:22:57 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:22:59 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:23:01 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:23:03 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:23:05 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:23:07 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:23:09 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:23:11 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:23:13 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:23:15 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:23:17 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:23:19 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:23:21 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:23:23 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:23:25 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:23:27 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:23:29 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:23:31 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:23:33 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:23:35 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:23:37 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:23:39 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:23:41 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:23:43 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:23:45 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:23:47 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:23:49 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:23:51 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:23:53 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:23:55 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:23:57 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:23:59 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:24:01 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:24:03 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:24:05 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:24:07 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:24:09 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:24:11 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:24:13 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:24:15 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:24:17 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:24:19 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:24:21 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:24:23 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:24:25 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:24:27 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:24:29 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:24:31 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:24:33 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:24:35 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:24:37 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:24:39 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:24:41 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:24:43 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:24:45 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:24:47 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:24:49 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:24:51 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:24:53 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:24:55 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:24:57 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:24:59 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:25:01 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:25:03 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:25:05 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:25:07 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:25:09 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:25:11 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:25:13 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:25:15 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:25:17 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:25:19 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:25:21 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:25:23 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:25:25 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:25:27 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:25:29 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:25:31 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:25:33 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:25:35 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:25:37 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:25:39 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:25:41 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:25:43 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:25:45 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:25:47 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:25:49 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:25:51 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:25:53 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:25:55 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:25:57 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:25:59 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:26:01 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:26:03 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:26:05 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:26:07 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:26:09 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:26:11 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:26:13 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:26:15 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:26:18 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:26:20 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:26:22 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:26:24 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:26:26 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:26:28 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:26:30 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:26:32 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:26:34 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:26:36 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:26:38 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:26:40 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:26:42 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:26:44 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:26:46 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:26:48 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:26:50 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:26:52 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:26:54 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:26:56 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:26:58 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:27:00 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:27:02 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:27:04 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:27:06 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:27:08 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:27:10 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:27:12 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:27:14 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:27:16 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:27:18 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:27:20 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:27:22 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:27:24 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:27:26 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:27:28 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:27:30 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:27:32 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:27:34 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:27:36 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:27:38 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:27:40 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:27:42 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:27:44 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:27:46 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:27:48 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:27:50 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:27:52 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:27:54 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:27:56 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:27:58 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:28:00 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:28:02 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:28:04 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:28:06 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:28:08 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:28:10 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:28:12 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:28:14 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:28:16 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:28:18 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:28:20 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:28:22 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:28:24 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:28:26 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:28:28 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:28:30 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:28:32 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:28:34 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:28:36 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:28:38 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:28:40 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:28:42 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:28:44 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:28:46 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:28:48 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:28:50 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:28:52 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:28:54 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:28:56 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:28:58 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:29:00 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:29:02 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:29:04 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:29:06 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:29:08 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:29:10 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:29:12 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:29:14 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:29:16 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:29:18 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:29:20 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:29:22 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:29:24 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:29:26 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:29:28 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:29:30 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:29:32 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:29:34 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:29:36 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:29:38 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:29:40 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:29:42 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:29:44 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:29:46 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:29:48 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:29:50 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:29:52 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:29:54 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:29:56 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:29:58 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:30:00 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:30:02 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:30:04 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:30:06 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:30:08 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:30:10 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:30:12 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:30:14 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:30:16 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:30:18 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:30:20 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:30:22 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:30:24 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:30:26 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:30:28 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:30:30 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:30:32 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:30:34 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:30:36 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:30:38 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:30:40 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:30:42 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:30:44 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:30:46 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:30:48 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:30:50 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:30:52 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:30:54 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:30:56 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:30:58 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:31:00 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:31:02 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:31:04 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:31:06 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:31:08 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:31:10 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:31:12 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:31:14 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:31:16 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:31:18 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:31:20 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:31:22 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:31:24 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:31:26 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:31:28 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:31:30 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:31:32 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:31:34 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:31:36 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:31:38 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:31:40 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:31:42 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:31:44 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:31:46 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:31:48 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:31:50 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:31:52 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:31:54 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:31:56 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:31:58 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:32:00 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:32:02 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:32:04 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:32:06 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:32:08 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:32:10 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:32:12 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:32:14 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:32:16 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:32:18 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:32:20 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:32:22 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:32:24 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:32:26 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:32:28 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:32:30 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:32:32 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:32:34 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:32:36 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:32:38 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:32:40 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:32:42 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:32:44 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:32:46 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:32:48 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:32:50 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:32:52 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:32:54 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:32:56 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:32:58 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:33:00 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:33:02 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:33:04 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:33:06 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:33:08 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:33:10 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:33:12 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:33:14 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:33:16 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:33:18 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:33:20 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:33:22 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:33:24 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:33:26 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:33:28 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:33:30 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:33:32 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:33:34 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:33:36 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:33:38 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:33:40 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:33:42 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:33:44 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:33:46 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:33:48 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:33:50 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:33:52 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:33:54 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:33:56 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:33:58 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:34:00 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:34:02 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:34:04 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:34:06 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:34:08 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:34:10 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:34:12 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:34:14 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:34:16 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:34:18 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:34:20 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:34:22 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:34:24 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:34:26 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:34:28 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:34:30 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:34:32 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:34:34 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:34:36 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:34:38 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:34:40 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:34:42 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:34:44 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:34:46 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:34:48 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:34:50 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:34:52 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:34:54 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:34:56 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:34:58 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:35:00 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:35:02 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:35:04 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:35:06 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:35:08 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:35:10 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:35:12 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:35:14 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:35:16 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:35:18 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:35:20 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:35:22 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:35:24 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:35:26 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:35:29 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:35:31 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:35:33 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:35:35 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:35:37 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:35:39 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:35:41 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:35:43 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:35:45 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:35:47 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:35:49 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:35:51 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:35:53 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:35:55 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:35:57 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:35:59 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:36:01 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:36:03 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:36:05 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:36:07 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:36:09 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:36:11 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:36:13 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:36:15 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:36:17 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:36:19 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:36:21 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:36:23 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:36:25 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:36:27 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:36:29 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:36:31 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:36:33 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:36:35 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:36:37 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:36:39 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:36:41 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:36:43 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:36:45 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:36:47 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:36:49 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:36:51 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:36:53 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:36:55 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:36:57 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:36:59 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:37:01 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:37:03 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:37:05 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:37:07 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:37:09 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:37:11 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:37:13 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:37:15 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:37:17 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:37:19 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:37:21 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:37:23 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:37:25 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:37:27 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:37:29 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:37:31 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:37:33 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:37:35 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:37:37 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:37:39 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:37:41 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:37:43 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:37:45 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:37:47 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:37:49 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:37:51 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:37:53 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:37:55 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:37:57 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:37:59 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:38:01 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:38:03 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:38:05 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:38:07 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:38:09 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:38:11 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:38:13 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:38:15 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:38:17 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:38:19 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:38:21 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:38:23 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:38:25 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:38:27 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:38:29 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:38:31 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:38:33 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:38:35 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:38:37 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:38:39 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:38:41 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:38:43 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:38:45 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:38:47 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:38:49 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:38:51 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:38:53 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:38:55 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:38:57 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:38:59 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:39:01 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:39:03 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:39:05 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:39:07 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:39:09 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:39:11 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:39:13 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:39:15 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:39:17 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:39:19 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:39:21 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:39:23 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:39:25 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:39:27 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:39:29 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:39:31 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:39:33 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:39:35 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:39:37 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:39:39 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:39:41 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:39:43 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:39:45 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:39:47 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:39:49 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:39:51 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:39:53 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:39:55 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:39:57 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:39:59 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:40:01 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:40:03 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:40:05 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:40:07 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:40:09 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:40:11 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:40:13 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:40:15 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:40:17 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:40:19 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:40:21 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:40:23 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:40:25 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:40:27 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:40:29 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:40:31 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:40:33 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:40:35 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:40:37 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:40:39 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:40:41 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:40:43 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:40:45 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:40:47 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:40:49 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:40:51 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:40:53 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:40:55 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:40:57 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:40:59 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:41:01 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:41:03 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:41:05 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:41:07 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:41:09 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:41:11 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:41:13 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:41:15 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:41:17 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:41:19 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:41:21 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:41:23 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:41:25 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:41:27 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:41:29 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:41:31 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:41:33 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:41:35 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:41:37 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:41:39 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:41:41 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:41:43 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:41:45 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:41:47 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:41:49 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:41:51 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:41:53 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:41:55 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:41:57 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:41:59 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:42:01 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:42:03 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:42:05 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:42:07 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:42:09 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:42:11 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:42:13 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:42:15 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:42:17 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:42:19 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:42:21 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:42:23 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:42:25 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:42:27 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:42:29 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:42:31 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:42:33 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:42:35 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:42:37 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:42:39 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:42:41 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:42:43 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:42:45 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:42:47 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:42:49 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:42:51 [main] INFO Client: Application report for application_5938451104802_7913334 (state: RUNNING)
+22/07/12 19:42:53 [main] INFO Client: Application report for application_5938451104802_7913334 (state: FINISHED)
+22/07/12 19:42:53 [main] INFO Client: 
+	 client token: N/A
+	 diagnostics: N/A
+	 ApplicationMaster host: BJHTYD-Hope-11-11-21-207.hadoop.jd.local
+	 ApplicationMaster RPC port: 20112
+	 queue: root.lvl103.lvl201.lvl302
+	 start time: 1657623281654
+	 final status: SUCCEEDED
+	 tracking URL: http://BJHTYD-Hope-23-194.hadoop.jd.local:50320/proxy/application_5938451104802_7913334/
+	 user: mart_jypt_usr_grow
+	 Spark UI: http://hope.jd.com/proxy/application_5938451104802_7913334/
+	 注意: 如需通过UI查看Spark运行情况, 当spark任务正在运行时可直接请求Spark UI对应的链接，如果spark任务已完成请查看对应的History(https://cf.jd.com/pages/viewpage.action?pageId=253780395)
+22/07/12 19:42:53 [Thread-1] INFO ShutdownHookManager: Shutdown hook called
+22/07/12 19:42:53 [Thread-1] INFO ShutdownHookManager: Deleting directory /tmp/spark-7867d322-ce7b-441a-8a6e-aa2d62527b2e
+22/07/12 19:42:53 [Thread-1] INFO ShutdownHookManager: Deleting directory /tmp/spark/spark-0d07a3c7-6365-4a82-9114-e4801189af0b

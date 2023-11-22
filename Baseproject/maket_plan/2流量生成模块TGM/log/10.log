@@ -1,0 +1,525 @@
+WARNING: The directory '/work/.cache/pip' or its parent directory is not owned or is not writable by the current user. The cache has been disabled. Check the permissions and owner of that directory. If executing pip with sudo, you should use sudo's -H flag.
+Package                            Version
+---------------------------------- -----------
+absl-py                            1.0.0
+adal                               1.2.4
+alabaster                          0.7.12
+anaconda-client                    1.7.2
+anaconda-navigator                 1.9.7
+anaconda-project                   0.8.2
+ansiwrap                           0.8.4
+asn1crypto                         0.24.0
+astor                              0.8.1
+astroid                            2.2.5
+astropy                            3.2.1
+atomicwrites                       1.3.0
+attrs                              19.1.0
+autograd                           1.3
+azure-datalake-store               0.0.50
+Babel                              2.7.0
+backcall                           0.1.0
+backports.os                       0.1.1
+backports.shutil-get-terminal-size 1.0.0
+beautifulsoup4                     4.7.1
+bitarray                           0.9.3
+bkcharts                           0.2
+blaze                              0.11.3
+bleach                             3.1.0
+blinker                            1.4
+bokeh                              1.2.0
+boto                               2.49.0
+boto3                              1.9.5
+botocore                           1.12.6
+Bottleneck                         1.2.1
+bz2file                            0.98
+certifi                            2020.6.20
+cffi                               1.12.3
+chardet                            3.0.4
+Click                              7.0
+cloudpickle                        1.2.1
+clyent                             1.2.2
+cma                                2.7.0
+colorama                           0.4.1
+conda                              4.8.5
+conda-build                        3.18.2
+conda-package-handling             1.3.9
+conda-verify                       3.1.1
+confluent-kafka                    1.5.0
+constant                           0.0.4
+contextlib2                        0.5.5
+core-module                        1.1.6
+cryptography                       2.7
+cycler                             0.10.0
+Cython                             0.29.10
+cytoolz                            0.9.0.1
+das                                1.2.11
+das-9n-client                      1.0.1
+das-9n-storage                     1.0.2
+das-storage                        1.0.4
+dask                               1.2.2
+datashape                          0.5.4
+decorator                          4.4.0
+defusedxml                         0.5.0
+Deprecated                         1.2.13
+distributed                        1.28.1
+docutils                           0.14
+entrypoints                        0.3
+escapism                           1.0.0
+et-xmlfile                         1.0.1
+fastcache                          1.1.0
+filelock                           3.0.10
+Flask                              1.0.3
+Flask-Cors                         3.0.8
+future                             0.17.1
+gast                               0.2.2
+gensim                             3.5.0
+gevent                             1.4.0
+glob2                              0.7
+gmpy2                              2.1.0b1
+google-pasta                       0.2.0
+greenlet                           0.4.15
+grpcio                             1.25.0
+h5py                               2.9.0
+heapdict                           1.0.0
+html5lib                           1.0.1
+idna                               2.8
+imageio                            2.5.0
+imagesize                          1.1.0
+importlib-metadata                 4.8.2
+ipykernel                          5.3.4
+ipython                            7.0.1
+ipython-genutils                   0.2.0
+ipywidgets                         7.4.2
+isort                              4.3.20
+itsdangerous                       1.1.0
+jdcal                              1.4.1
+jedi                               0.13.3
+jeepney                            0.4
+jieba                              0.39
+Jinja2                             2.10.1
+jmespath                           0.9.4
+joblib                             0.13.2
+jsonschema                         3.0.1
+jupyter-client                     5.2.4
+jupyter-console                    6.0.0
+jupyter-core                       4.4.0
+jupyterlab                         0.35.6
+jupyterlab-launcher                0.13.1
+jupyterlab-server                  0.2.0
+Keras                              2.2.5
+Keras-Applications                 1.0.8
+Keras-Preprocessing                1.1.2
+keyring                            19.0.2
+kiwisolver                         1.1.0
+lazy-object-proxy                  1.4.1
+libarchive-c                       2.8
+lief                               0.9.0
+lightgbm                           2.1.2
+llvmlite                           0.28.0
+locket                             0.2.0
+lockfile                           0.12.2
+lxml                               4.3.4
+Markdown                           3.3.6
+MarkupSafe                         1.1.1
+matplotlib                         3.1.0
+mccabe                             0.6.1
+mistune                            0.8.4
+mkl-service                        2.1.0
+mock                               3.0.5
+more-itertools                     4.3.0
+mpmath                             1.1.0
+msgpack                            0.6.1
+multipledispatch                   0.6.0
+navigator-updater                  0.2.1
+nbconvert                          5.5.0
+nbexamples                         0+unknown
+nbformat                           4.4.0
+networkx                           2.3
+nltk                               3.2.5
+nose                               1.3.7
+notebook                           5.7.8
+numba                              0.43.1
+numexpr                            2.6.9
+numpy                              1.19.4
+numpydoc                           0.9.1
+oauthlib                           3.0.1
+odo                                0.5.1
+olefile                            0.46
+opencv-contrib-python              3.4.3.18
+opencv-python                      3.4.3.18
+openpyxl                           2.6.1
+opt-einsum                         3.3.0
+ortools                            9.0.9048
+packaging                          21.3
+pandas                             1.1.5
+pandocfilters                      1.4.2
+papermill                          0.15.1
+parso                              0.4.0
+partd                              0.3.10
+path.py                            12.0.1
+pathlib2                           2.3.3
+patsy                              0.5.1
+pep8                               1.7.1
+pexpect                            4.7.0
+pickleshare                        0.7.5
+Pillow                             6.0.0
+pinoctl                            1.2.7
+pip                                21.3.1
+pkginfo                            1.5.0.1
+pluggy                             0.12.0
+ply                                3.11
+prometheus-client                  0.7.0
+prompt-toolkit                     2.0.9
+protobuf                           3.14.0
+psutil                             5.6.3
+ptyprocess                         0.6.0
+py                                 1.8.0
+pycodestyle                        2.5.0
+pycosat                            0.6.3
+pycparser                          2.19
+pycrypto                           2.6.1
+pycurl                             7.43.0.2
+pyflakes                           2.1.1
+Pygments                           2.4.2
+PyJWT                              1.7.1
+pylint                             2.3.1
+pymoo                              0.5.0
+pyodbc                             4.0.24
+pyOpenSSL                          19.0.0
+pyopt                              0.84
+pyparsing                          2.4.0
+pyrsistent                         0.15.2
+PySocks                            1.7.0
+pytest                             4.6.3
+pytest-arraydiff                   0.3
+pytest-astropy                     0.5.0
+pytest-doctestplus                 0.3.0
+pytest-openfiles                   0.3.1
+pytest-remotedata                  0.3.1
+python-crfsuite                    0.9.6
+python-daemon                      2.3.0
+python-dateutil                    2.8.0
+pytz                               2019.1
+PyWavelets                         1.0.3
+PyYAML                             5.1.1
+pyzmq                              18.0.1
+QtAwesome                          0.5.7
+qtconsole                          4.5.1
+QtPy                               1.8.0
+redis                              4.1.4
+requests                           2.22.0
+requests-oauthlib                  1.2.0
+rope                               0.14.0
+ruamel-yaml                        0.15.71
+s3transfer                         0.1.13
+scikit-image                       0.13.1
+scikit-learn                       0.23.1
+scipy                              1.1.0
+seaborn                            0.9.0
+SecretStorage                      3.1.1
+Send2Trash                         1.5.0
+serving-client                     1.0.1
+setuptools                         41.0.1
+Shapely                            1.6.4.post2
+simplegeneric                      0.8.1
+singledispatch                     3.4.0.3
+six                                1.12.0
+smart-open                         1.8.4
+snowballstemmer                    1.2.1
+sortedcollections                  1.1.2
+sortedcontainers                   2.1.0
+soupsieve                          1.9.1
+Sphinx                             2.1.2
+sphinxcontrib-applehelp            1.0.1
+sphinxcontrib-devhelp              1.0.1
+sphinxcontrib-htmlhelp             1.0.2
+sphinxcontrib-jsmath               1.0.1
+sphinxcontrib-qthelp               1.0.2
+sphinxcontrib-serializinghtml      1.1.1
+sphinxcontrib-websupport           1.1.2
+spyder                             3.3.4
+spyder-kernels                     0.4.4
+SQLAlchemy                         1.3.5
+statsmodels                        0.9.0
+sympy                              1.4
+tables                             3.5.1
+tblib                              1.4.0
+tensorboard                        1.15.0
+tensorflow                         1.15.0
+tensorflow-estimator               1.15.1
+termcolor                          1.1.0
+terminado                          0.8.2
+testpath                           0.4.2
+textwrap3                          0.9.2
+threadpoolctl                      3.1.0
+tomli                              1.2.3
+toolz                              0.9.0
+tornado                            6.0.2
+tqdm                               4.26.0
+traitlets                          4.3.2
+twython                            3.7.0
+typed-ast                          1.3.5
+typing                             3.6.4
+typing_extensions                  4.0.1
+tzk                                0.2.2
+unicodecsv                         0.14.1
+urllib3                            1.23
+wcwidth                            0.1.7
+webencodings                       0.5.1
+Werkzeug                           0.15.4
+wheel                              0.33.4
+widgetsnbextension                 3.4.2
+woe                                0.1.4
+wrapt                              1.13.3
+wurlitzer                          1.0.3
+xlrd                               1.2.0
+XlsxWriter                         1.1.8
+xlwt                               1.3.0
+zict                               0.1.4
+zipp                               0.5.1
+WARNING: The repository located at easyalgo.jd.com is not a trusted or secure host and is being ignored. If this repository is available via HTTPS we recommend you use HTTPS instead, otherwise you may silence this warning and allow it anyway with '--trusted-host easyalgo.jd.com'.
+WARNING: The repository located at mirrors.jd.com is not a trusted or secure host and is being ignored. If this repository is available via HTTPS we recommend you use HTTPS instead, otherwise you may silence this warning and allow it anyway with '--trusted-host mirrors.jd.com'.
+七月 12, 2022 8:31:42 下午 io.prometheus.jmx.shaded.MetricsWrapperShaded run
+信息: Run jmx exporter with ENV: SPARK_JMX_EXPORTER_ENABLE=null
+Warning: Master yarn-cluster is deprecated since 2.0. Please use master "yarn" with specified deploy mode instead.
+22/07/12 20:31:43 [main] WARN SparkConf: The configuration key 'spark.yarn.executor.memoryOverhead' has been deprecated as of Spark 2.3 and may be removed in the future. Please use the new key 'spark.executor.memoryOverhead' instead.
+22/07/12 20:31:44 [main] WARN Utils: JDSpark: spark.executor.instances:450 is greater than spark.dynamicAllocation.maxExecutors:100, so reset spark.dynamicAllocation.maxExecutors to 450. This conversion will be deprecated in the future releases, please set spark.dynamicAllocation.maxExecutors correctly! 
+22/07/12 20:31:45 [main] INFO RMProxy: Using Router failover provider org.apache.hadoop.yarn.client.ConfiguredRouterFailoverProxyProvider
+22/07/12 20:31:45 [main] INFO ConfiguredRouterFailoverProxyProvider: yarn.federation.multi-router.shuffle.enabled=true, Router failover list index begin to 1
+22/07/12 20:31:45 [main] INFO ConfiguredRouterFailoverProxyProvider: HADOOP_FEDERATION_ROUTER_FAILOVER_ENABLED = true, Connect to the cluster using Router-failover model
+22/07/12 20:31:45 [main] INFO ConfiguredRouterFailoverProxyProvider: Connect to Router 10.198.21.138:8050
+22/07/12 20:31:45 [main] INFO Client: Requesting a new application from cluster with 16584 NodeManagers
+22/07/12 20:31:45 [main] INFO YarnClientImpl: Create Applicaiton application_5938451104802_7924479 elapsed: 15 ms.
+22/07/12 20:31:45 [send-sparkconf-2-kongming] INFO KongmingOptimizeSparkUtils: Kongming Output Parameters:
+newConfXml = <?xml version="1.0" encoding="UTF-8" standalone="no"?><configuration></configuration>
+
+22/07/12 20:31:45 [main] INFO Client: Setting up container launch context for our AM
+22/07/12 20:31:45 [main] INFO Client: Setting up the launch environment for our AM container
+22/07/12 20:31:45 [main] INFO Client: Preparing resources for our AM container
+22/07/12 20:31:45 [main] WARN Client: Neither spark.yarn.jars nor spark.yarn.archive is set, falling back to uploading libraries under SPARK_HOME.
+22/07/12 20:31:47 [main] INFO Client: Uploading resource file:/tmp/spark/spark-22619ad6-fbca-46c2-b33b-e0642bfcccae/__spark_libs__6309635068494117747.zip -> hdfs://ns1009/user/mart_jypt/mart_jypt_usr_grow/.sparkStaging/application_5938451104802_7924479/__spark_libs__6309635068494117747.zip
+22/07/12 20:31:50 [main] INFO Client: Uploading resource file:/media/cfs/yuchuchu/machine/machine_algo/用户管理中心/2流量生成模块/src/month_week_plan/get_base_data.sql -> hdfs://ns1009/user/mart_jypt/mart_jypt_usr_grow/.sparkStaging/application_5938451104802_7924479/get_base_data.sql
+22/07/12 20:31:50 [main] INFO Client: Uploading resource file:/media/cfs/yuchuchu/machine/machine_algo/用户管理中心/2流量生成模块/src/month_week_plan/get_lastday_data.sql -> hdfs://ns1009/user/mart_jypt/mart_jypt_usr_grow/.sparkStaging/application_5938451104802_7924479/get_lastday_data.sql
+22/07/12 20:31:50 [main] INFO Client: Uploading resource file:/media/cfs/yuchuchu/machine/machine_algo/用户管理中心/2流量生成模块/src/month_week_plan/get_newuser_base_data.sql -> hdfs://ns1009/user/mart_jypt/mart_jypt_usr_grow/.sparkStaging/application_5938451104802_7924479/get_newuser_base_data.sql
+22/07/12 20:31:51 [main] INFO Client: Uploading resource file:/media/cfs/yuchuchu/machine/machine_algo/用户管理中心/2流量生成模块/src/month_week_plan/dev_algo_pin_interim.py -> hdfs://ns1009/user/mart_jypt/mart_jypt_usr_grow/.sparkStaging/application_5938451104802_7924479/dev_algo_pin_interim.py
+22/07/12 20:31:51 [main] INFO Client: Uploading resource file:/software/servers/hope/mart_sch/spark/python/lib/pyspark.zip -> hdfs://ns1009/user/mart_jypt/mart_jypt_usr_grow/.sparkStaging/application_5938451104802_7924479/pyspark.zip
+22/07/12 20:31:51 [main] INFO Client: Uploading resource file:/software/servers/hope/mart_sch/spark/python/lib/py4j-0.10.7-src.zip -> hdfs://ns1009/user/mart_jypt/mart_jypt_usr_grow/.sparkStaging/application_5938451104802_7924479/py4j-0.10.7-src.zip
+22/07/12 20:31:51 [main] INFO Client: Uploading resource file:/tmp/spark/spark-22619ad6-fbca-46c2-b33b-e0642bfcccae/__spark_conf__854191937976217298.zip -> hdfs://ns1009/user/mart_jypt/mart_jypt_usr_grow/.sparkStaging/application_5938451104802_7924479/__spark_conf__.zip
+22/07/12 20:31:51 [main] INFO Client: ===============================================================================
+22/07/12 20:31:51 [main] INFO Client: YARN AM launch context:
+22/07/12 20:31:51 [main] INFO Client:     user class: org.apache.spark.deploy.PythonRunner
+22/07/12 20:31:51 [main] INFO Client:     env:
+22/07/12 20:31:51 [main] INFO Client:         yarn.nodemanager.docker-container-executor.image-name -> bdp-docker.jd.com:5000/wise_mart_jypt:latest
+22/07/12 20:31:51 [main] INFO Client:         CLASSPATH -> {{PWD}}<CPS>{{PWD}}/__spark_conf__<CPS>{{PWD}}/__spark_conf__/__hadoop_conf__<CPS>{{PWD}}/__spark_libs__/*<CPS>$HADOOP_CONF_DIR<CPS>$HADOOP_COMMON_HOME/share/hadoop/common/*<CPS>$HADOOP_COMMON_HOME/share/hadoop/common/lib/*<CPS>$HADOOP_HDFS_HOME/share/hadoop/hdfs/*<CPS>$HADOOP_HDFS_HOME/share/hadoop/hdfs/lib/*<CPS>$HADOOP_YARN_HOME/share/hadoop/yarn/*<CPS>$HADOOP_YARN_HOME/share/hadoop/yarn/lib/*<CPS>$HADOOP_MAPRED_HOME/share/hadoop/mapreduce/*<CPS>$HADOOP_MAPRED_HOME/share/hadoop/mapreduce/lib/*
+22/07/12 20:31:51 [main] INFO Client:         PYSPARK_DRIVER_PYTHON -> /usr/local/anaconda3//bin/python
+22/07/12 20:31:51 [main] INFO Client:         yarn.nodemanager.container-executor.class -> DockerLinuxContainer
+22/07/12 20:31:51 [main] INFO Client:         SPARK_YARN_STAGING_DIR -> hdfs://ns1009/user/mart_jypt/mart_jypt_usr_grow/.sparkStaging/application_5938451104802_7924479
+22/07/12 20:31:51 [main] INFO Client:         SPARK_USER -> mart_jypt_usr_grow
+22/07/12 20:31:51 [main] INFO Client:         PYTHONHASHSEED -> 0
+22/07/12 20:31:51 [main] INFO Client:         JAVA_HOME -> /software/servers/jdk1.8.0_221
+22/07/12 20:31:51 [main] INFO Client:         PYTHONPATH -> /software/servers/hope/mart_sch/spark/python:/software/servers/hope/mart_sch/spark/python/lib/py4j-0.10.7-src.zip::/software/servers/hope/mart_sch/HiveTask/:/software/servers/hope/mart_sch/HiveTask/:/software/servers/hope/mart_sch/HiveTask/<CPS>{{PWD}}/pyspark.zip<CPS>{{PWD}}/py4j-0.10.7-src.zip
+22/07/12 20:31:51 [main] INFO Client:         PYSPARK_PYTHON -> /usr/local/anaconda3//bin/python
+22/07/12 20:31:51 [main] INFO Client:     resources:
+22/07/12 20:31:51 [main] INFO Client:     command:
+22/07/12 20:31:51 [main] INFO Client:         LD_LIBRARY_PATH=\"/software/servers/hadoop-2.7.1/lib/native:/software/servers/yarn-2.7.1/lib/native:$LD_LIBRARY_PATH\" {{JAVA_HOME}}/bin/java -server -Xmx12288m -Djava.io.tmpdir={{PWD}}/tmp '-Dorg.asynchttpclient.readTimeout=5000' '-Dorg.asynchttpclient.connectionTtl=60000' '-Dorg.asynchttpclient.acquireFreeChannelTimeout=10000' -Dspark.yarn.app.container.log.dir=<LOG_DIR> org.apache.spark.deploy.yarn.ApplicationMaster --class 'org.apache.spark.deploy.PythonRunner' --primary-py-file dev_algo_pin_interim.py --arg '2022-07-11' --arg 'low_test' --arg '('\''gy_new'\'')' --properties-file {{PWD}}/__spark_conf__/__spark_conf__.properties 1> <LOG_DIR>/spark_stdout 2> <LOG_DIR>/spark_stderr
+22/07/12 20:31:51 [main] INFO Client: ===============================================================================
+22/07/12 20:31:51 [main] INFO SecurityManager: Changing view acls to: yuchuchu,mart_jypt_usr_grow
+22/07/12 20:31:51 [main] INFO SecurityManager: Changing modify acls to: yuchuchu,mart_jypt_usr_grow
+22/07/12 20:31:51 [main] INFO SecurityManager: Changing view acls groups to: 
+22/07/12 20:31:51 [main] INFO SecurityManager: Changing modify acls groups to: 
+22/07/12 20:31:51 [main] INFO SecurityManager: SecurityManager: authentication disabled; ui acls disabled; users  with view permissions: Set(yuchuchu, mart_jypt_usr_grow); groups with view permissions: Set(); users  with modify permissions: Set(yuchuchu, mart_jypt_usr_grow); groups with modify permissions: Set()
+22/07/12 20:31:52 [main] INFO Client: Submitting application application_5938451104802_7924479 to ResourceManager
+22/07/12 20:31:52 [main] INFO YarnClientImpl: Begin to submit application: application_5938451104802_7924479 to queue: bdp_jmart_sch_union.bdp_jmart_jypt_union.bdp_jmart_yhzz_formal 
+22/07/12 20:31:53 [main] INFO YarnClientImpl: Submitted application application_5938451104802_7924479
+22/07/12 20:31:53 [main] INFO YarnClientImpl: End to submit application: application_5938451104802_7924479 to queue: bdp_jmart_sch_union.bdp_jmart_jypt_union.bdp_jmart_yhzz_formal , elapsed: 646 ms.
+22/07/12 20:31:55 [main] INFO SecurityManager: Changing view acls to: yuchuchu,mart_jypt_usr_grow
+22/07/12 20:31:55 [main] INFO SecurityManager: Changing modify acls to: yuchuchu,mart_jypt_usr_grow
+22/07/12 20:31:55 [main] INFO SecurityManager: Changing view acls groups to: 
+22/07/12 20:31:55 [main] INFO SecurityManager: Changing modify acls groups to: 
+22/07/12 20:31:55 [main] INFO SecurityManager: SecurityManager: authentication disabled; ui acls disabled; users  with view permissions: Set(yuchuchu, mart_jypt_usr_grow); groups with view permissions: Set(); users  with modify permissions: Set(yuchuchu, mart_jypt_usr_grow); groups with modify permissions: Set()
+22/07/12 20:31:55 [main] INFO Utils: Successfully started service 'amClient' on port 37944.
+22/07/12 20:31:55 [main] INFO Client: Application report for application_5938451104802_7924479 (state: ACCEPTED)
+22/07/12 20:31:55 [main] INFO Client: 
+	 client token: N/A
+	 diagnostics: N/A
+	 ApplicationMaster host: N/A
+	 ApplicationMaster RPC port: -1
+	 queue: root.lvl103.lvl201.lvl302
+	 start time: 1657629112412
+	 final status: UNDEFINED
+	 tracking URL: http://BJHTYD-Hope-23-194.hadoop.jd.local:50320/proxy/application_5938451104802_7924479/
+	 user: mart_jypt_usr_grow
+	 Spark UI: http://hope.jd.com/proxy/application_5938451104802_7924479/
+	 注意: 如需通过UI查看Spark运行情况, 当spark任务正在运行时可直接请求Spark UI对应的链接，如果spark任务已完成请查看对应的History(https://cf.jd.com/pages/viewpage.action?pageId=253780395)
+22/07/12 20:31:57 [main] INFO Client: Application report for application_5938451104802_7924479 (state: ACCEPTED)
+22/07/12 20:31:59 [main] INFO Client: Application report for application_5938451104802_7924479 (state: ACCEPTED)
+22/07/12 20:32:01 [main] INFO Client: Application report for application_5938451104802_7924479 (state: ACCEPTED)
+22/07/12 20:32:03 [main] INFO Client: Application report for application_5938451104802_7924479 (state: ACCEPTED)
+22/07/12 20:32:05 [main] INFO Client: Application report for application_5938451104802_7924479 (state: ACCEPTED)
+22/07/12 20:32:07 [main] INFO Client: Application report for application_5938451104802_7924479 (state: ACCEPTED)
+22/07/12 20:32:09 [main] INFO Client: Application report for application_5938451104802_7924479 (state: ACCEPTED)
+22/07/12 20:32:11 [main] INFO Client: Application report for application_5938451104802_7924479 (state: ACCEPTED)
+22/07/12 20:32:13 [main] INFO Client: Application report for application_5938451104802_7924479 (state: ACCEPTED)
+22/07/12 20:32:15 [netty-rpc-connection-0] INFO TransportClientFactory: Successfully created connection to BJHTYD-Hope-59-42.hadoop.jd.local/10.198.59.42:2712 after 46 ms (0 ms spent in bootstraps)
+22/07/12 20:32:15 [main] INFO Client: Application report for application_5938451104802_7924479 (state: RUNNING)
+22/07/12 20:32:15 [main] INFO Client: 
+	 client token: N/A
+	 diagnostics: N/A
+	 ApplicationMaster host: BJHTYD-Hope-59-42.hadoop.jd.local
+	 ApplicationMaster RPC port: 2712
+	 queue: root.lvl103.lvl201.lvl302
+	 start time: 1657629112412
+	 final status: UNDEFINED
+	 tracking URL: http://BJHTYD-Hope-23-194.hadoop.jd.local:50320/proxy/application_5938451104802_7924479/
+	 user: mart_jypt_usr_grow
+	 Spark UI: http://hope.jd.com/proxy/application_5938451104802_7924479/
+	 注意: 如需通过UI查看Spark运行情况, 当spark任务正在运行时可直接请求Spark UI对应的链接，如果spark任务已完成请查看对应的History(https://cf.jd.com/pages/viewpage.action?pageId=253780395)
+22/07/12 20:32:15 [rpc-client-1-1] INFO Client: The driverLogBaseUrl is http://BJHTYD-Hope-59-42.hadoop.jd.local:8042/node/containerlogs/container_e248_5938451104802_7924479_01_000001/mart_jypt_usr_grow
+22/07/12 20:32:17 [main] INFO Client: Application report for application_5938451104802_7924479 (state: RUNNING)
+22/07/12 20:32:19 [main] INFO Client: Application report for application_5938451104802_7924479 (state: RUNNING)
+22/07/12 20:32:21 [main] INFO Client: Application report for application_5938451104802_7924479 (state: RUNNING)
+22/07/12 20:32:23 [main] INFO Client: Application report for application_5938451104802_7924479 (state: RUNNING)
+22/07/12 20:32:25 [main] INFO Client: Application report for application_5938451104802_7924479 (state: RUNNING)
+22/07/12 20:32:27 [main] INFO Client: Application report for application_5938451104802_7924479 (state: RUNNING)
+22/07/12 20:32:29 [main] INFO Client: Application report for application_5938451104802_7924479 (state: RUNNING)
+22/07/12 20:32:31 [main] INFO Client: Application report for application_5938451104802_7924479 (state: RUNNING)
+22/07/12 20:32:33 [main] INFO Client: Application report for application_5938451104802_7924479 (state: RUNNING)
+22/07/12 20:32:35 [main] INFO Client: Application report for application_5938451104802_7924479 (state: RUNNING)
+22/07/12 20:32:37 [main] INFO Client: Application report for application_5938451104802_7924479 (state: RUNNING)
+22/07/12 20:32:39 [main] INFO Client: Application report for application_5938451104802_7924479 (state: RUNNING)
+22/07/12 20:32:41 [main] INFO Client: Application report for application_5938451104802_7924479 (state: RUNNING)
+22/07/12 20:32:43 [main] INFO Client: Application report for application_5938451104802_7924479 (state: RUNNING)
+22/07/12 20:32:45 [main] INFO Client: Application report for application_5938451104802_7924479 (state: RUNNING)
+22/07/12 20:32:47 [main] INFO Client: Application report for application_5938451104802_7924479 (state: RUNNING)
+22/07/12 20:32:49 [main] INFO Client: Application report for application_5938451104802_7924479 (state: RUNNING)
+22/07/12 20:32:51 [main] INFO Client: Application report for application_5938451104802_7924479 (state: RUNNING)
+22/07/12 20:32:53 [main] INFO Client: Application report for application_5938451104802_7924479 (state: RUNNING)
+22/07/12 20:32:55 [main] INFO Client: Application report for application_5938451104802_7924479 (state: RUNNING)
+22/07/12 20:32:57 [main] INFO Client: Application report for application_5938451104802_7924479 (state: RUNNING)
+22/07/12 20:32:59 [main] INFO Client: Application report for application_5938451104802_7924479 (state: RUNNING)
+22/07/12 20:33:01 [main] INFO Client: Application report for application_5938451104802_7924479 (state: RUNNING)
+22/07/12 20:33:03 [main] INFO Client: Application report for application_5938451104802_7924479 (state: RUNNING)
+22/07/12 20:33:05 [main] INFO Client: Application report for application_5938451104802_7924479 (state: RUNNING)
+22/07/12 20:33:07 [main] INFO Client: Application report for application_5938451104802_7924479 (state: RUNNING)
+22/07/12 20:33:09 [main] INFO Client: Application report for application_5938451104802_7924479 (state: RUNNING)
+22/07/12 20:33:11 [main] INFO Client: Application report for application_5938451104802_7924479 (state: RUNNING)
+22/07/12 20:33:13 [main] INFO Client: Application report for application_5938451104802_7924479 (state: RUNNING)
+22/07/12 20:33:15 [main] INFO Client: Application report for application_5938451104802_7924479 (state: RUNNING)
+22/07/12 20:33:17 [main] INFO Client: Application report for application_5938451104802_7924479 (state: RUNNING)
+22/07/12 20:33:19 [main] INFO Client: Application report for application_5938451104802_7924479 (state: RUNNING)
+22/07/12 20:33:21 [main] INFO Client: Application report for application_5938451104802_7924479 (state: RUNNING)
+22/07/12 20:33:23 [main] INFO Client: Application report for application_5938451104802_7924479 (state: RUNNING)
+22/07/12 20:33:25 [main] INFO Client: Application report for application_5938451104802_7924479 (state: RUNNING)
+22/07/12 20:33:27 [main] INFO Client: Application report for application_5938451104802_7924479 (state: RUNNING)
+22/07/12 20:33:29 [main] INFO Client: Application report for application_5938451104802_7924479 (state: RUNNING)
+22/07/12 20:33:31 [main] INFO Client: Application report for application_5938451104802_7924479 (state: RUNNING)
+22/07/12 20:33:33 [main] INFO Client: Application report for application_5938451104802_7924479 (state: RUNNING)
+22/07/12 20:33:35 [main] INFO Client: Application report for application_5938451104802_7924479 (state: RUNNING)
+22/07/12 20:33:37 [main] INFO Client: Application report for application_5938451104802_7924479 (state: RUNNING)
+22/07/12 20:33:39 [main] INFO Client: Application report for application_5938451104802_7924479 (state: RUNNING)
+22/07/12 20:33:41 [main] INFO Client: Application report for application_5938451104802_7924479 (state: RUNNING)
+22/07/12 20:33:43 [main] INFO Client: Application report for application_5938451104802_7924479 (state: RUNNING)
+22/07/12 20:33:45 [main] INFO Client: Application report for application_5938451104802_7924479 (state: RUNNING)
+22/07/12 20:33:47 [main] INFO Client: Application report for application_5938451104802_7924479 (state: RUNNING)
+22/07/12 20:33:49 [main] INFO Client: Application report for application_5938451104802_7924479 (state: RUNNING)
+22/07/12 20:33:51 [main] INFO Client: Application report for application_5938451104802_7924479 (state: RUNNING)
+22/07/12 20:33:53 [main] INFO Client: Application report for application_5938451104802_7924479 (state: RUNNING)
+22/07/12 20:33:55 [main] INFO Client: Application report for application_5938451104802_7924479 (state: RUNNING)
+22/07/12 20:33:57 [main] INFO Client: Application report for application_5938451104802_7924479 (state: RUNNING)
+22/07/12 20:33:59 [main] INFO Client: Application report for application_5938451104802_7924479 (state: RUNNING)
+22/07/12 20:34:01 [main] INFO Client: Application report for application_5938451104802_7924479 (state: RUNNING)
+22/07/12 20:34:03 [main] INFO Client: Application report for application_5938451104802_7924479 (state: RUNNING)
+22/07/12 20:34:05 [main] INFO Client: Application report for application_5938451104802_7924479 (state: RUNNING)
+22/07/12 20:34:07 [main] INFO Client: Application report for application_5938451104802_7924479 (state: RUNNING)
+22/07/12 20:34:09 [main] INFO Client: Application report for application_5938451104802_7924479 (state: RUNNING)
+22/07/12 20:34:11 [main] INFO Client: Application report for application_5938451104802_7924479 (state: RUNNING)
+22/07/12 20:34:13 [main] INFO Client: Application report for application_5938451104802_7924479 (state: RUNNING)
+22/07/12 20:34:15 [main] INFO Client: Application report for application_5938451104802_7924479 (state: RUNNING)
+22/07/12 20:34:17 [main] INFO Client: Application report for application_5938451104802_7924479 (state: RUNNING)
+22/07/12 20:34:19 [main] INFO Client: Application report for application_5938451104802_7924479 (state: RUNNING)
+22/07/12 20:34:21 [main] INFO Client: Application report for application_5938451104802_7924479 (state: RUNNING)
+22/07/12 20:34:23 [main] INFO Client: Application report for application_5938451104802_7924479 (state: RUNNING)
+22/07/12 20:34:25 [main] INFO Client: Application report for application_5938451104802_7924479 (state: RUNNING)
+22/07/12 20:34:27 [main] INFO Client: Application report for application_5938451104802_7924479 (state: RUNNING)
+22/07/12 20:34:29 [main] INFO Client: Application report for application_5938451104802_7924479 (state: RUNNING)
+22/07/12 20:34:31 [main] INFO Client: Application report for application_5938451104802_7924479 (state: RUNNING)
+22/07/12 20:34:33 [main] INFO Client: Application report for application_5938451104802_7924479 (state: RUNNING)
+22/07/12 20:34:35 [main] INFO Client: Application report for application_5938451104802_7924479 (state: RUNNING)
+22/07/12 20:34:37 [main] INFO Client: Application report for application_5938451104802_7924479 (state: RUNNING)
+22/07/12 20:34:39 [main] INFO Client: Application report for application_5938451104802_7924479 (state: RUNNING)
+22/07/12 20:34:41 [main] INFO Client: Application report for application_5938451104802_7924479 (state: RUNNING)
+22/07/12 20:34:43 [main] INFO Client: Application report for application_5938451104802_7924479 (state: RUNNING)
+22/07/12 20:34:45 [main] INFO Client: Application report for application_5938451104802_7924479 (state: RUNNING)
+22/07/12 20:34:47 [main] INFO Client: Application report for application_5938451104802_7924479 (state: RUNNING)
+22/07/12 20:34:49 [main] INFO Client: Application report for application_5938451104802_7924479 (state: RUNNING)
+22/07/12 20:34:51 [main] INFO Client: Application report for application_5938451104802_7924479 (state: RUNNING)
+22/07/12 20:34:53 [main] INFO Client: Application report for application_5938451104802_7924479 (state: RUNNING)
+22/07/12 20:34:55 [main] INFO Client: Application report for application_5938451104802_7924479 (state: RUNNING)
+22/07/12 20:34:57 [main] INFO Client: Application report for application_5938451104802_7924479 (state: RUNNING)
+22/07/12 20:34:59 [main] INFO Client: Application report for application_5938451104802_7924479 (state: RUNNING)
+22/07/12 20:35:01 [main] INFO Client: Application report for application_5938451104802_7924479 (state: RUNNING)
+22/07/12 20:35:04 [main] INFO Client: Application report for application_5938451104802_7924479 (state: RUNNING)
+22/07/12 20:35:06 [main] INFO Client: Application report for application_5938451104802_7924479 (state: RUNNING)
+22/07/12 20:35:08 [main] INFO Client: Application report for application_5938451104802_7924479 (state: RUNNING)
+22/07/12 20:35:10 [main] INFO Client: Application report for application_5938451104802_7924479 (state: RUNNING)
+22/07/12 20:35:12 [main] INFO Client: Application report for application_5938451104802_7924479 (state: RUNNING)
+22/07/12 20:35:14 [main] INFO Client: Application report for application_5938451104802_7924479 (state: RUNNING)
+22/07/12 20:35:16 [main] INFO Client: Application report for application_5938451104802_7924479 (state: RUNNING)
+22/07/12 20:35:18 [main] INFO Client: Application report for application_5938451104802_7924479 (state: RUNNING)
+22/07/12 20:35:20 [main] INFO Client: Application report for application_5938451104802_7924479 (state: RUNNING)
+22/07/12 20:35:22 [main] INFO Client: Application report for application_5938451104802_7924479 (state: RUNNING)
+22/07/12 20:35:24 [main] INFO Client: Application report for application_5938451104802_7924479 (state: RUNNING)
+22/07/12 20:35:26 [main] INFO Client: Application report for application_5938451104802_7924479 (state: RUNNING)
+22/07/12 20:35:28 [main] INFO Client: Application report for application_5938451104802_7924479 (state: RUNNING)
+22/07/12 20:35:30 [main] INFO Client: Application report for application_5938451104802_7924479 (state: RUNNING)
+22/07/12 20:35:32 [main] INFO Client: Application report for application_5938451104802_7924479 (state: RUNNING)
+22/07/12 20:35:34 [main] INFO Client: Application report for application_5938451104802_7924479 (state: RUNNING)
+22/07/12 20:35:36 [main] INFO Client: Application report for application_5938451104802_7924479 (state: RUNNING)
+22/07/12 20:35:38 [main] INFO Client: Application report for application_5938451104802_7924479 (state: RUNNING)
+22/07/12 20:35:40 [main] INFO Client: Application report for application_5938451104802_7924479 (state: RUNNING)
+22/07/12 20:35:42 [main] INFO Client: Application report for application_5938451104802_7924479 (state: RUNNING)
+22/07/12 20:35:44 [main] INFO Client: Application report for application_5938451104802_7924479 (state: RUNNING)
+22/07/12 20:35:46 [main] INFO Client: Application report for application_5938451104802_7924479 (state: RUNNING)
+22/07/12 20:35:48 [main] INFO Client: Application report for application_5938451104802_7924479 (state: RUNNING)
+22/07/12 20:35:50 [main] INFO Client: Application report for application_5938451104802_7924479 (state: RUNNING)
+22/07/12 20:35:52 [main] INFO Client: Application report for application_5938451104802_7924479 (state: RUNNING)
+22/07/12 20:35:54 [main] INFO Client: Application report for application_5938451104802_7924479 (state: RUNNING)
+22/07/12 20:35:56 [main] INFO Client: Application report for application_5938451104802_7924479 (state: RUNNING)
+22/07/12 20:35:58 [main] INFO Client: Application report for application_5938451104802_7924479 (state: RUNNING)
+22/07/12 20:36:00 [main] INFO Client: Application report for application_5938451104802_7924479 (state: RUNNING)
+22/07/12 20:36:02 [main] INFO Client: Application report for application_5938451104802_7924479 (state: RUNNING)
+22/07/12 20:36:04 [main] INFO Client: Application report for application_5938451104802_7924479 (state: RUNNING)
+22/07/12 20:36:06 [main] INFO Client: Application report for application_5938451104802_7924479 (state: RUNNING)
+22/07/12 20:36:08 [main] INFO Client: Application report for application_5938451104802_7924479 (state: RUNNING)
+22/07/12 20:36:10 [main] INFO Client: Application report for application_5938451104802_7924479 (state: RUNNING)
+22/07/12 20:36:12 [main] INFO Client: Application report for application_5938451104802_7924479 (state: RUNNING)
+22/07/12 20:36:14 [main] INFO Client: Application report for application_5938451104802_7924479 (state: RUNNING)
+22/07/12 20:36:16 [main] INFO Client: Application report for application_5938451104802_7924479 (state: RUNNING)
+22/07/12 20:36:18 [main] INFO Client: Application report for application_5938451104802_7924479 (state: RUNNING)
+22/07/12 20:36:20 [main] INFO Client: Application report for application_5938451104802_7924479 (state: RUNNING)
+22/07/12 20:36:22 [main] INFO Client: Application report for application_5938451104802_7924479 (state: RUNNING)
+22/07/12 20:36:24 [main] INFO Client: Application report for application_5938451104802_7924479 (state: RUNNING)
+22/07/12 20:36:26 [main] INFO Client: Application report for application_5938451104802_7924479 (state: RUNNING)
+22/07/12 20:36:28 [main] INFO Client: Application report for application_5938451104802_7924479 (state: RUNNING)
+22/07/12 20:36:30 [main] INFO Client: Application report for application_5938451104802_7924479 (state: RUNNING)
+22/07/12 20:36:32 [main] INFO Client: Application report for application_5938451104802_7924479 (state: RUNNING)
+22/07/12 20:36:34 [main] INFO Client: Application report for application_5938451104802_7924479 (state: RUNNING)
+22/07/12 20:36:36 [main] INFO Client: Application report for application_5938451104802_7924479 (state: RUNNING)
+22/07/12 20:36:38 [main] INFO Client: Application report for application_5938451104802_7924479 (state: RUNNING)
+22/07/12 20:36:40 [main] INFO Client: Application report for application_5938451104802_7924479 (state: RUNNING)
+22/07/12 20:36:42 [main] INFO Client: Application report for application_5938451104802_7924479 (state: FINISHED)
+22/07/12 20:36:42 [main] INFO Client: 
+	 client token: N/A
+	 diagnostics: N/A
+	 ApplicationMaster host: BJHTYD-Hope-59-42.hadoop.jd.local
+	 ApplicationMaster RPC port: 2712
+	 queue: root.lvl103.lvl201.lvl302
+	 start time: 1657629112412
+	 final status: SUCCEEDED
+	 tracking URL: http://BJHTYD-Hope-23-194.hadoop.jd.local:50320/proxy/application_5938451104802_7924479/
+	 user: mart_jypt_usr_grow
+	 Spark UI: http://hope.jd.com/proxy/application_5938451104802_7924479/
+	 注意: 如需通过UI查看Spark运行情况, 当spark任务正在运行时可直接请求Spark UI对应的链接，如果spark任务已完成请查看对应的History(https://cf.jd.com/pages/viewpage.action?pageId=253780395)
+22/07/12 20:36:42 [Thread-1] INFO ShutdownHookManager: Shutdown hook called
+22/07/12 20:36:42 [Thread-1] INFO ShutdownHookManager: Deleting directory /tmp/spark-42a1e694-fbd1-4b7f-bd2c-70d1517feb54
+22/07/12 20:36:42 [Thread-1] INFO ShutdownHookManager: Deleting directory /tmp/spark/spark-22619ad6-fbca-46c2-b33b-e0642bfcccae

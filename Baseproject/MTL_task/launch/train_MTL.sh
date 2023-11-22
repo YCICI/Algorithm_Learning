@@ -1,0 +1,46 @@
+data_dir="/nfs/project/chuchu/MTL_deepfm/data"
+main_dir="/nfs/project/chuchu/MTL_deepfm/main"
+
+python ${main_dir}/deepfmtl_for_train.py \
+--use_chunks 1 \
+--chunk_Size 500000 \
+--data_nums 0 \
+--use_for_train 1 \
+--use_percentceil 0 \
+--use_bin 1 \
+--dense_processmethod 'log' \
+--task_type1 'binary' \
+--learning_rate1 0.0001 \
+--embedding_size1 8 \
+--l2_reg_linear1 0.001 \
+--l2_reg_embedding1 0.001 \
+--l2_reg_dnn1 0.1 \
+--seed1 2019 \
+--dnn_dropout1 0 \
+--dnn_hidden_units1 '(128,)' \
+--Optimizer1 'Adam' \
+--dnn_use_bn1 1 \
+--init_std1 0.0001 \
+--task_type2 'binary' \
+--learning_rate2 0.0001 \
+--embedding_size2 8 \
+--l2_reg_linear2 0.00001 \
+--l2_reg_embedding2 0.00001 \
+--l2_reg_dnn2 0.1 \
+--seed2 2019 \
+--dnn_dropout2 0 \
+--dnn_hidden_units2 '(128,)' \
+--Optimizer2 'Adam' \
+--dnn_use_bn2 1 \
+--init_std2 0.0001 \
+--task1_net_units '(128,)' \
+--task2_net_units '(128,)' \
+--task1_name 'pLTV' \
+--task2_name 'pCVR' \
+--Optimizer_mtl 'Adam' \
+--learning_rate_mtl 0.0001 \
+--batch_size 512 \
+--epochs 80 \
+--use_global_epochs 0 \
+--verbose 1 \
+--loss_weights '[1, 0.025]'  
