@@ -8,5 +8,5 @@
 # 
 .DS_Store
 
-# 避免上传JD项目线上代码
-JD_project
+# 屏蔽京东项目文件
+JD_project/
