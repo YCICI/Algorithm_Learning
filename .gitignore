@@ -7,3 +7,6 @@
 
 # 
 .DS_Store
+
+# 避免上传JD项目线上代码
+JD_project
