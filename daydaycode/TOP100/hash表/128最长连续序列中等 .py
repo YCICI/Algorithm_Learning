@@ -31,11 +31,11 @@ class Solution:
         nums_set = set(nums)
         res = 0
         for n in nums:
-            # 从区间的最小值开始遍历
-            if n - 1 not in nums_set:
+            # 从序列起始位置 or 最末端更新
+            if n + 1 not in nums_set:
                 cur_len = 1
-                while n + 1 in nums_set:
-                    cur_len +=1
-                    n +=1
+                while n - 1 in nums_set:
+                    cur_len += 1
+                    n = n - 1
                 res = max(res, cur_len)
         return res
