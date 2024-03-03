@@ -76,29 +76,40 @@
 # ----------------------------------------解法 双指针 ----------------------------------------
 class Solution:
     def getIntersectionNode(self, headA: ListNode, headB: ListNode) -> Optional[ListNode]:
-        # 双指针，两次遍历：
-        # 时间复杂度：O(m + n)
-        # 空间复杂度：O(1)
-        len_a = 0
-        cur_a = headA
-        while cur_a:
-            len_a += 1
-            cur_a = cur_a.next
+        # # 双指针，两次遍历：
+        # # 时间复杂度：O(m + n)
+        # # 空间复杂度：O(1)
+        # len_a = 0
+        # cur_a = headA
+        # while cur_a:
+        #     len_a += 1
+        #     cur_a = cur_a.next
 
-        len_b = 0
-        cur_b = headB
-        while cur_b:
-            len_b += 1
-            cur_b = cur_b.next
+        # len_b = 0
+        # cur_b = headB
+        # while cur_b:
+        #     len_b += 1
+        #     cur_b = cur_b.next
 
-        long_head, short_head = (headA, headB) if len_a >= len_b else (headB, headA)
-        for _ in range(abs(len_a - len_b)):
-            long_head = long_head.next
+        # long_head, short_head = (headA, headB) if len_a >= len_b else (headB, headA)
+        # for _ in range(abs(len_a - len_b)):
+        #     long_head = long_head.next
 
-        while long_head and short_head:
-            if long_head == short_head:
-                return long_head
-            long_head = long_head.next
-            short_head = short_head.next
+        # while long_head and short_head:
+        #     if long_head == short_head:
+        #         return long_head
+        #     long_head = long_head.next
+        #     short_head = short_head.next
 
-        return None
+        # return None
+        #   #方法一 精简写法
+        
+        cura = headA
+        curb = headB
+
+        while cura != curb:
+
+            cura = cura.next if cura else headB
+            curb = curb.next if curb else headA
+
+        return cura
