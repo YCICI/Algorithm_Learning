@@ -4,6 +4,8 @@
 
 # 忽略大数据集
 *.csv
+*.txt
+*.out
 
 # 
 .DS_Store
