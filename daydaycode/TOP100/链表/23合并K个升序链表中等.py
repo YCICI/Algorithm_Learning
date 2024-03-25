@@ -44,46 +44,74 @@
 #     def __init__(self, val=0, next=None):
 #         self.val = val
 #         self.next = next
+# class Solution:
+#     def mergeKLists(self, lists: List[Optional[ListNode]]) -> Optional[ListNode]:
+#         # 解法一 归并 从中间分开 左边合并 右边合并
+#         # 解法二 维护一个长度为k的优选队列 弹出最小值后 更新该值的next进入优先队列
+
+#         def mergetwolists(list1, list2):
+#             if not list1 or not list2:
+#                 return list1 if not list2 else list2
+#             dummy = ListNode(0)
+#             p = dummy
+#             p1, p2 = list1, list2
+#             while p1 and p2:
+#                 if p1.val <= p2.val:
+#                     p.next = ListNode(p1.val)
+#                     p1 = p1.next
+#                     p = p.next
+                
+#                 elif p1.val > p2.val:
+#                     p.next = ListNode(p2.val)
+#                     p2 = p2.next
+#                     p = p.next
+            
+#             p.next = p1 if p1 else p2
+#             return dummy.next
+
+#         def mergeprocess(left, right):
+#             # print(left, right)
+#             if right <= left:
+#                 return lists[right]
+            
+#             if right - left == 1:
+#                 return mergetwolists(lists[left], lists[right])
+
+#             mid = left + ((right - left) // 2)
+#             left = mergeprocess(left, mid - 1)
+#             right = mergeprocess(mid, right)
+
+#             return mergetwolists(left, right)
+        
+#         if not lists:
+#             return 
+#         n = len(lists)
+#         return mergeprocess(0, n-1)
+# Definition for singly-linked list.
+# class ListNode:
+#     def __init__(self, val=0, next=None):
+#         self.val = val
+#         self.next = next
+ListNode.__lt__ = lambda a, b: a.val < b.val 
 class Solution:
     def mergeKLists(self, lists: List[Optional[ListNode]]) -> Optional[ListNode]:
-        # 解法一 归并 从中间分开 左边合并 右边合并
-        # 解法二 维护一个长度为k的优选队列 弹出最小值后 更新该值的next进入优先队列
-
-        def mergetwolists(list1, list2):
-            if not list1 or not list2:
-                return list1 if not list2 else list2
-            dummy = ListNode(0)
-            p = dummy
-            p1, p2 = list1, list2
-            while p1 and p2:
-                if p1.val <= p2.val:
-                    p.next = ListNode(p1.val)
-                    p1 = p1.next
-                    p = p.next
-                
-                elif p1.val > p2.val:
-                    p.next = ListNode(p2.val)
-                    p2 = p2.next
-                    p = p.next
-            
-            p.next = p1 if p1 else p2
-            return dummy.next
-
-        def mergeprocess(left, right):
-            # print(left, right)
-            if right <= left:
-                return lists[right]
-            
-            if right - left == 1:
-                return mergetwolists(lists[left], lists[right])
-
-            mid = left + ((right - left) // 2)
-            left = mergeprocess(left, mid - 1)
-            right = mergeprocess(mid, right)
-
-            return mergetwolists(left, right)
-        
-        if not lists:
+        # 解法二 堆 
+        # 把链表的指针第一项都加入堆 依次弹出最小值 
+        # 更新最小值的的next进入堆
+        if not lists :
             return 
+
         n = len(lists)
-        return mergeprocess(0, n-1)
+        pq = [(lists[i].val, lists[i]) for i in range(n) if lists[i]]
+        heapq.heapify(pq)
+
+        dummy = ListNode(-1)
+        p = dummy
+        while pq:
+            min_val, min_node = heapq.heappop(pq)
+            p.next = ListNode(min_val)
+            p = p.next
+            if min_node.next:
+                heapq.heappush(pq, (min_node.next.val, min_node.next))
+            
+        return dummy.next
