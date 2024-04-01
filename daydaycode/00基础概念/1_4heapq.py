@@ -67,7 +67,7 @@ class LargeHeapq():
             index = (int((index - 1) / 2))
         return 
     
-    def heapqfiy(index, nums, size):
+    def heapify(index, nums, size):
         # 备注：自定义函数的使用和
         # print("index=%s, nums=%s, size=%s"%(index, nums, size))
 
@@ -100,23 +100,51 @@ class LargeHeapq():
 
 if __name__ == '__main__':
 
-    arr1 = [4, 1, 3, 5, 8]
-    arr2 = [4, 1, 3, 5, 8]
-    arr3 = [4, 1, 3, 5, 8]
+    arr1 = [3,2,3,1,2,4,5,5,6]
     # smallet_queue(arr)
+    ######################################################
     print("*" * 20, "base 函数", "*" * 20)
-    heapq._heapify_max(arr1)
-    print(arr1)
+    print("大根堆")
+    nums = arr1
+    heapq._heapify_max(nums)
+    print(nums)
 
-    # 自定义的堆化不能往下处理
-    print("*" * 20, "自定义函数heapqfiy", "*" * 20)
-    for i in range(len(arr2), -1, -1):
-        LargeHeapq.heapqfiy(i, arr2, len(arr2) - 1 )
-    print(arr2)
+    print( "排序")
+    nums = arr1[:]
+    heapq.heapify(nums)
+    sorted_nums = []
 
-    print("*" * 20, "自定义函数heapqinsert", "*" * 20)
-    for i in range(len(arr3)):
-        # print(i)
-        LargeHeapq.heapqinsert(i, arr3)
-    print(arr3)
+    while nums:
+        sorted_nums.append(heapq.heappop(nums))
+    print(sorted_nums)
+
+    ########################################################
+    print("*" * 20, "only heapify", "*" * 20)
+    print("大根堆")
+    nums = arr1
+    for i in range(len(nums) - 1 , -1, -1):
+        LargeHeapq.heapify(i, nums, len(nums) - 1)
+    print(nums)
+    
+    # 堆可以理解为完全二叉树 即每一个父节点都有完整的叶子节点 且父节点为最大or 最小的值
+    # 自定义的 heapify 是处理每一颗子树的大小关系，需要从后往前处理才能完成整个数组的堆化
+    # arr[0] 是最大值 后面的排序不一定严格大小，需要弹出后更新size继续排序
+    print("堆排")
+    nums = arr1
+    n = len(nums)
+    size = n - 1
+    for i in range(size, -1, -1):
+            LargeHeapq.heapify(i, nums, size)
+    
+    ### 写法一
+    # while size >= 0:
+    #     nums[0], nums[size] = nums[size], nums[0]
+    #     size -= 1
+    #     LargeHeapq.heapify(0, nums, size)
+    ### 写法二
+    for j in range(n - 1, 0, -1):
+        nums[j], nums[0] = nums[0], nums[j]
+        LargeHeapq.heapify(0, nums, j - 1)
+    print(nums)
+
 
