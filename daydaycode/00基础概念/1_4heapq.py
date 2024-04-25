@@ -60,7 +60,6 @@ class LargeHeapq():
     自定义堆
     """
     def heapqinsert(index, nums):
-
         
         while nums[index] > nums[int((index - 1) / 2)]:
             nums[index], nums[int((index - 1) / 2)] = nums[int((index - 1) / 2)], nums[index]
@@ -146,5 +145,26 @@ if __name__ == '__main__':
         nums[j], nums[0] = nums[0], nums[j]
         LargeHeapq.heapify(0, nums, j - 1)
     print(nums)
+
+    ########################################################
+    print("*" * 20, "only heapinsert", "*" * 20)
+    print("大根堆")
+    nums = arr1
+    for i in range(len(nums)):
+        LargeHeapq.heapqinsert(i, nums)
+    print(nums)
+    print("排序")
+    nums = arr1
+    #构建k大小的大根堆
+    for i in range(n):
+        LargeHeapq.heapqinsert(i, nums)
+    # 
+    for j in range(n - 1, 0, -1):
+        nums[0], nums[j] = nums[j], nums[0]
+        # print(j, nums)
+        # heapinsert(j - 1, nums)
+        LargeHeapq.heapify(0, nums, j - 1)
+    print(nums)
+
 
 

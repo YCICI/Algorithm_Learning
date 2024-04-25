@@ -55,8 +55,7 @@ class Solution:
         # return left + 1
     
         # 双指针 解法二
-
-        # 
+        # # slow表示边界 fast表示搜寻数组
         n = len(nums)
         slow = fast = 1
         while fast < n:

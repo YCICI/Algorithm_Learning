@@ -36,7 +36,7 @@
 # -104 <= target <= 104
 class Solution:
     def search(self, nums: List[int], target: int) -> int:
-        # 先判断有序 再判断是否在区间内
+        # 二分查找，有序的部分判断边界更新
         n = len(nums)
         left, right = 0, n - 1
         while left <= right:

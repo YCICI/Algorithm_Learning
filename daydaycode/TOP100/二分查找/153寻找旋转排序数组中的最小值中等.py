@@ -30,24 +30,26 @@
 # 输入：nums = [11,13,15,17]
 # 输出：11
 # 解释：原数组为 [11,13,15,17] ，旋转 4 次得到输入数组。
-        # 二分查找 最小值一定是在无序数组
+
 class Solution:
     def findMin(self, nums: List[int]) -> int:
-        # 二分查找 最小值一定是在无序数组
+        # 二分查找 
+        # 因为数组是旋转过的  比较mid值 和数组最后一个元素来更新边界条件
+        # 最小值的右侧一定是小于 数组的最后一个元素
+        # 最小值的左侧一定是大于 数组的最后一个元素
+        # 如果mid > 数组最后的元素 此时在最小值左侧 left = mid + 1
         n = len(nums)
-        ans = nums[0]
         left, right = 0, n - 1
         while left <= right:
-            mid = left + ((right - left) >> 1)
-            if nums[mid] >= nums[left]:
-                # 左边是有序的 往右边查找
-                ans = min(nums[left], ans)
+            mid = left + ((right - left) // 2)
+
+            if nums[mid] > nums[n -1]:
                 left = mid + 1
             else:
-                ans = min(nums[mid], ans)
                 right = mid - 1
-                
-        return ans
+            
+        return nums[left]
+    
 
 
 

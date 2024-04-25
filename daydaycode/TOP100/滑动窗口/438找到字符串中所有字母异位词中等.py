@@ -23,19 +23,45 @@
 # 起始索引等于 2 的子串是 "ab", 它是 "ab" 的异位词。
 class Solution:
     def findAnagrams(self, s: str, p: str) -> List[int]:
-
-        #### 滑动窗口 暴力解法
-        k = len(p)
-        n = len(s)
-        p_set = sorted(list(p))
-        res = []
-        # print(p_set)
-        for i in range(n):
-            
-            if (i + k) < n + 1 and sorted(list(s[i : i+ k])) == p_set:
-                # print(s[i : i+ k])
-                res.append(i)
+        # 滑动窗口 标准解法
+        s_len, p_len = len(s), len(p)
         
-        return res
+        if s_len < p_len:
+            return []
+
+        ans = []
+        s_count = [0] * 26
+        p_count = [0] * 26
+        for i in range(p_len):
+            s_count[ord(s[i]) - 97] += 1
+            p_count[ord(p[i]) - 97] += 1
+
+        if s_count == p_count:
+            ans.append(0)
+
+        for i in range(s_len - p_len):
+            # 滑动起来 去除第i未 加入i + p_len后一位
+            s_count[ord(s[i]) - 97] -= 1
+            s_count[ord(s[i + p_len]) - 97] += 1
+            
+            if s_count == p_count:
+                ans.append(i + 1)
+
+        return ans
+
+
+        # #### 滑动窗口 暴力解法
+        # k = len(p)
+        # n = len(s)
+        # p_set = sorted(list(p))
+        # res = []
+        # # print(p_set)
+        # for i in range(n):
+            
+        #     if (i + k) < n + 1 and sorted(list(s[i : i+ k])) == p_set:
+        #         # print(s[i : i+ k])
+        #         res.append(i)
+        
+        # return res
 
 
