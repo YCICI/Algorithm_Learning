@@ -60,7 +60,6 @@ class LargeHeapq():
     自定义堆
     """
     def heapqinsert(index, nums):
-        
         while nums[index] > nums[int((index - 1) / 2)]:
             nums[index], nums[int((index - 1) / 2)] = nums[int((index - 1) / 2)], nums[index]
             index = (int((index - 1) / 2))
